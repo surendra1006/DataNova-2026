@@ -1,0 +1,1201 @@
+patient_id,age,age_group,sex,bmi,bmi_category,hba1c_pct,hba1c_category,fasting_glucose_mg_dl,systolic_bp_mmhg,diastolic_bp_mmhg,total_cholesterol_mg_dl,family_history_diabetes,smoking_status,physical_activity_level,predicted_risk_pct,risk_category
+P1001,83,60+,Female,29.0,Overweight,6.4,Prediabetes,124,155,80,189,No,Never,Moderate,45.0,High
+P1002,20,18-39,Female,25.5,Overweight,5.4,Normal,84,109,72,168,No,Never,High,8.5,Low
+P1003,37,18-39,Female,29.5,Overweight,5.4,Normal,92,116,90,130,Yes,Never,Moderate,25.7,Moderate
+P1004,19,18-39,Female,24.9,Normal,4.8,Normal,82,114,78,177,No,Current,Low,6.6,Low
+P1005,54,40-59,Female,28.5,Overweight,5.8,Prediabetes,122,116,84,210,Yes,Current,Low,22.8,Moderate
+P1006,41,40-59,Female,22.3,Normal,5.3,Normal,90,113,64,196,No,Never,High,8.8,Low
+P1007,18,18-39,Male,25.1,Overweight,6.0,Prediabetes,85,137,94,155,Yes,Never,Low,37.6,Moderate
+P1008,25,18-39,Male,29.8,Overweight,6.0,Prediabetes,127,128,75,196,No,Never,Moderate,73.5,High
+P1009,47,40-59,Female,24.5,Normal,5.7,Prediabetes,90,115,60,206,No,Former,High,10.3,Low
+P1010,32,18-39,Female,28.8,Overweight,5.1,Normal,92,130,57,219,No,Never,High,9.6,Low
+P1011,45,40-59,Female,25.7,Overweight,4.8,Normal,97,127,71,221,No,Former,High,13.2,Low
+P1012,29,18-39,Female,28.8,Overweight,5.5,Normal,96,95,83,151,No,Never,Moderate,6.7,Low
+P1013,83,60+,Male,31.1,Obese,6.9,Diabetes range,105,136,90,155,No,Never,Low,75.2,High
+P1014,53,40-59,Female,23.1,Normal,5.6,Normal,82,117,70,213,No,Never,Moderate,14.7,Low
+P1015,39,18-39,Male,26.8,Overweight,6.4,Prediabetes,92,142,84,198,Yes,Current,Low,32.1,Moderate
+P1016,25,18-39,Male,20.8,Normal,5.4,Normal,84,145,77,163,No,Current,Low,8.0,Low
+P1017,63,60+,Female,29.4,Overweight,5.7,Prediabetes,112,118,83,205,No,Never,Moderate,20.1,Moderate
+P1018,50,40-59,Male,31.0,Obese,5.5,Normal,124,116,75,207,No,Never,High,27.2,Moderate
+P1019,51,40-59,Female,28.1,Overweight,5.1,Normal,98,126,65,149,No,Former,High,15.6,Low
+P1020,80,60+,Female,34.1,Obese,6.1,Prediabetes,123,119,77,167,No,Former,Moderate,76.0,High
+P1021,46,40-59,Female,29.4,Overweight,5.6,Normal,126,126,74,170,Yes,Never,Moderate,27.4,Moderate
+P1022,54,40-59,Female,30.1,Obese,5.9,Prediabetes,118,123,68,206,Yes,Never,Low,37.0,Moderate
+P1023,47,40-59,Female,23.1,Normal,5.3,Normal,82,131,69,190,No,Never,Low,5.6,Low
+P1024,40,40-59,Female,36.0,Obese,7.0,Diabetes range,167,146,88,260,Yes,Never,Low,68.1,High
+P1025,55,40-59,Male,23.9,Normal,5.7,Prediabetes,125,114,98,176,No,Never,Moderate,26.2,Moderate
+P1026,24,18-39,Female,25.2,Overweight,6.0,Prediabetes,112,111,86,213,No,Former,Moderate,38.6,Moderate
+P1027,40,40-59,Female,23.5,Normal,5.0,Normal,87,112,71,174,Yes,Never,High,10.4,Low
+P1028,74,60+,Male,25.8,Overweight,5.6,Normal,103,137,82,160,No,Former,Low,26.7,Moderate
+P1029,24,18-39,Female,27.1,Overweight,4.8,Normal,99,114,66,181,No,Never,High,6.0,Low
+P1030,38,18-39,Male,26.9,Overweight,5.3,Normal,124,126,84,225,Yes,Never,Moderate,21.7,Moderate
+P1031,31,18-39,Female,22.1,Normal,5.1,Normal,86,115,71,178,Yes,Never,Moderate,17.6,Low
+P1032,31,18-39,Male,27.2,Overweight,5.4,Normal,121,123,80,169,No,Former,Moderate,37.5,Moderate
+P1033,50,40-59,Female,27.7,Overweight,6.3,Prediabetes,135,127,99,207,Yes,Never,Moderate,66.8,High
+P1034,44,40-59,Male,31.9,Obese,5.9,Prediabetes,103,121,76,232,No,Never,High,23.6,Moderate
+P1035,35,18-39,Female,33.0,Obese,5.5,Normal,110,136,85,174,No,Never,Low,38.9,Moderate
+P1036,45,40-59,Female,25.0,Overweight,5.2,Normal,103,116,68,222,No,Never,Moderate,11.9,Low
+P1037,65,60+,Female,32.5,Obese,5.8,Prediabetes,104,135,75,197,No,Former,Moderate,33.1,Moderate
+P1038,18,18-39,Female,27.3,Overweight,5.4,Normal,86,121,65,217,Yes,Never,Moderate,8.5,Low
+P1039,26,18-39,Female,30.9,Obese,5.9,Prediabetes,79,129,65,251,No,Never,Low,13.5,Low
+P1040,48,40-59,Male,28.7,Overweight,5.1,Normal,98,114,60,222,No,Former,Moderate,10.5,Low
+P1041,30,18-39,Male,33.6,Obese,6.9,Diabetes range,156,154,89,193,Yes,Never,Low,64.1,High
+P1042,50,40-59,Male,24.3,Normal,5.1,Normal,86,101,75,177,No,Current,High,10.7,Low
+P1043,44,40-59,Male,28.7,Overweight,5.5,Normal,83,125,77,139,No,Former,High,7.0,Low
+P1044,59,40-59,Male,28.2,Overweight,6.0,Prediabetes,95,123,60,195,Yes,Never,High,37.4,Moderate
+P1045,50,40-59,Male,21.4,Normal,4.9,Normal,79,119,65,188,No,Never,Moderate,12.1,Low
+P1046,80,60+,Female,28.8,Overweight,5.5,Normal,95,114,74,163,No,Never,High,16.0,Low
+P1047,33,18-39,Female,24.4,Normal,6.0,Prediabetes,113,128,70,171,Yes,Former,Moderate,22.1,Moderate
+P1048,72,60+,Male,22.7,Normal,5.3,Normal,91,108,88,177,No,Never,Low,16.2,Low
+P1049,67,60+,Female,25.0,Overweight,5.6,Normal,82,119,60,208,No,Never,Low,4.2,Low
+P1050,26,18-39,Female,27.4,Overweight,5.7,Prediabetes,115,125,62,198,Yes,Never,High,27.3,Moderate
+P1051,32,18-39,Male,29.3,Overweight,5.4,Normal,100,119,84,227,No,Never,Moderate,4.9,Low
+P1052,56,40-59,Male,31.3,Obese,5.5,Normal,114,128,92,194,No,Never,Moderate,22.8,Moderate
+P1053,18,18-39,Female,29.0,Overweight,6.1,Prediabetes,103,132,78,161,No,Former,Moderate,39.0,Moderate
+P1054,21,18-39,Male,24.9,Normal,5.2,Normal,106,125,75,213,No,Never,Moderate,5.4,Low
+P1055,46,40-59,Male,26.3,Overweight,5.0,Normal,93,128,62,195,No,Never,High,6.8,Low
+P1056,30,18-39,Female,22.4,Normal,5.6,Normal,98,131,79,135,No,Never,Moderate,5.6,Low
+P1057,64,60+,Male,31.0,Obese,6.9,Diabetes range,110,141,86,187,No,Never,High,43.5,High
+P1058,49,40-59,Male,23.2,Normal,5.6,Normal,92,130,70,164,No,Never,Moderate,13.3,Low
+P1059,24,18-39,Female,28.5,Overweight,6.3,Prediabetes,117,144,76,202,No,Former,Moderate,30.5,Moderate
+P1060,62,60+,Female,26.0,Overweight,6.2,Prediabetes,105,121,92,192,Yes,Former,Moderate,23.2,Moderate
+P1061,21,18-39,Male,34.8,Obese,6.9,Diabetes range,120,126,76,199,No,Current,Low,90.9,High
+P1062,42,40-59,Female,31.8,Obese,7.3,Diabetes range,138,151,84,192,No,Former,Low,77.6,High
+P1063,24,18-39,Male,28.8,Overweight,6.1,Prediabetes,107,136,87,149,Yes,Current,Moderate,34.7,Moderate
+P1064,65,60+,Female,25.1,Overweight,5.4,Normal,101,108,63,173,No,Former,Moderate,9.7,Low
+P1065,40,40-59,Female,28.1,Overweight,5.8,Prediabetes,106,132,75,211,No,Former,Moderate,28.8,Moderate
+P1066,38,18-39,Female,23.5,Normal,5.3,Normal,80,142,66,214,No,Never,Low,12.5,Low
+P1067,42,40-59,Male,21.6,Normal,4.9,Normal,96,126,73,177,Yes,Never,High,11.3,Low
+P1068,32,18-39,Female,29.0,Overweight,6.1,Prediabetes,114,133,85,169,No,Never,High,31.8,Moderate
+P1069,69,60+,Female,25.9,Overweight,5.4,Normal,95,112,73,195,No,Former,Low,8.6,Low
+P1070,19,18-39,Male,26.6,Overweight,5.8,Prediabetes,97,112,80,200,No,Never,Moderate,15.0,Low
+P1071,60,60+,Female,41.7,Obese,5.9,Prediabetes,105,134,77,224,No,Never,Moderate,60.6,High
+P1072,25,18-39,Male,25.5,Overweight,4.9,Normal,88,145,83,192,No,Never,Moderate,14.8,Low
+P1073,26,18-39,Female,19.8,Normal,5.5,Normal,87,131,67,193,No,Never,High,5.5,Low
+P1074,55,40-59,Female,30.3,Obese,6.2,Prediabetes,109,128,77,177,Yes,Never,Moderate,26.4,Moderate
+P1075,52,40-59,Male,32.9,Obese,7.1,Diabetes range,121,157,78,286,No,Never,Moderate,83.2,High
+P1076,20,18-39,Male,27.2,Overweight,5.3,Normal,100,115,74,177,No,Current,Low,11.1,Low
+P1077,84,60+,Female,32.4,Obese,6.4,Prediabetes,152,139,98,201,Yes,Former,Moderate,61.7,High
+P1078,65,60+,Female,38.3,Obese,6.7,Diabetes range,117,151,99,189,No,Never,Low,47.5,High
+P1079,81,60+,Male,34.6,Obese,7.0,Diabetes range,121,144,95,209,Yes,Current,High,51.7,High
+P1080,59,40-59,Female,37.8,Obese,7.0,Diabetes range,135,153,88,209,Yes,Current,Moderate,61.2,High
+P1081,37,18-39,Female,26.0,Overweight,5.7,Prediabetes,110,145,71,228,No,Former,Moderate,25.3,Moderate
+P1082,50,40-59,Female,19.6,Normal,5.0,Normal,100,104,68,209,No,Never,High,17.5,Low
+P1083,25,18-39,Female,23.4,Normal,5.5,Normal,105,122,80,174,No,Current,High,39.4,Moderate
+P1084,54,40-59,Female,22.2,Normal,5.2,Normal,102,139,73,182,No,Current,High,10.8,Low
+P1085,52,40-59,Female,22.2,Normal,5.6,Normal,79,120,76,201,No,Never,Moderate,7.9,Low
+P1086,52,40-59,Female,27.6,Overweight,5.5,Normal,123,133,92,204,No,Never,Moderate,39.9,Moderate
+P1087,19,18-39,Male,26.2,Overweight,5.4,Normal,83,116,62,245,No,Current,High,17.9,Low
+P1088,19,18-39,Female,23.1,Normal,5.5,Normal,92,113,74,242,No,Never,High,38.6,Moderate
+P1089,37,18-39,Female,22.3,Normal,5.7,Prediabetes,123,137,87,175,Yes,Former,Moderate,37.6,Moderate
+P1090,47,40-59,Male,31.4,Obese,5.6,Normal,112,146,81,192,Yes,Never,Moderate,36.0,Moderate
+P1091,21,18-39,Male,19.7,Normal,5.4,Normal,107,138,78,193,No,Never,High,8.6,Low
+P1092,42,40-59,Male,31.5,Obese,6.4,Prediabetes,113,140,78,155,Yes,Former,Moderate,23.6,Moderate
+P1093,27,18-39,Male,20.7,Normal,5.2,Normal,95,111,71,214,No,Never,High,13.4,Low
+P1094,51,40-59,Male,26.0,Overweight,5.4,Normal,98,135,72,178,Yes,Former,Moderate,15.3,Low
+P1095,51,40-59,Female,20.8,Normal,5.3,Normal,100,110,67,184,No,Never,Moderate,15.6,Low
+P1096,41,40-59,Female,22.5,Normal,4.8,Normal,97,105,71,137,No,Never,Low,7.0,Low
+P1097,48,40-59,Male,26.8,Overweight,5.8,Prediabetes,110,111,70,237,Yes,Former,Low,35.5,Moderate
+P1098,54,40-59,Female,25.3,Overweight,5.5,Normal,88,116,74,239,No,Current,High,4.0,Low
+P1099,51,40-59,Male,37.2,Obese,5.8,Prediabetes,119,141,72,192,No,Never,High,22.2,Moderate
+P1100,57,40-59,Female,29.4,Overweight,6.1,Prediabetes,98,132,72,205,Yes,Never,Low,27.1,Moderate
+P1101,75,60+,Female,20.3,Normal,5.1,Normal,105,124,83,200,No,Former,High,13.6,Low
+P1102,51,40-59,Male,28.0,Overweight,5.7,Prediabetes,91,122,79,192,No,Never,High,14.9,Low
+P1103,56,40-59,Male,24.5,Normal,5.1,Normal,79,122,80,170,No,Never,Moderate,17.3,Low
+P1104,56,40-59,Female,27.6,Overweight,6.4,Prediabetes,106,136,80,243,Yes,Former,Moderate,28.8,Moderate
+P1105,42,40-59,Male,23.4,Normal,5.2,Normal,103,129,77,133,No,Never,Low,29.3,Moderate
+P1106,67,60+,Female,25.9,Overweight,6.2,Prediabetes,88,116,82,202,No,Never,Low,36.1,Moderate
+P1107,18,18-39,Female,22.6,Normal,5.2,Normal,87,107,63,248,No,Never,Moderate,8.9,Low
+P1108,41,40-59,Male,26.2,Overweight,4.9,Normal,79,122,77,184,No,Never,Low,5.7,Low
+P1109,48,40-59,Female,18.9,Normal,4.9,Normal,91,103,71,208,No,Former,High,14.4,Low
+P1110,59,40-59,Female,20.7,Normal,5.3,Normal,99,116,70,227,Yes,Current,Low,7.3,Low
+P1111,44,40-59,Female,30.5,Obese,6.0,Prediabetes,99,122,82,261,No,Never,High,26.0,Moderate
+P1112,50,40-59,Female,27.2,Overweight,6.4,Prediabetes,97,113,73,231,No,Never,High,37.2,Moderate
+P1113,80,60+,Male,26.0,Overweight,5.0,Normal,92,115,71,220,Yes,Never,High,17.1,Low
+P1114,34,18-39,Female,29.6,Overweight,5.8,Prediabetes,121,124,69,191,No,Never,High,26.1,Moderate
+P1115,42,40-59,Male,22.7,Normal,5.3,Normal,92,120,63,195,No,Current,High,5.9,Low
+P1116,60,60+,Female,35.1,Obese,6.4,Prediabetes,137,118,84,233,Yes,Never,Low,51.3,High
+P1117,54,40-59,Female,26.5,Overweight,5.5,Normal,140,132,83,183,No,Current,Moderate,39.2,Moderate
+P1118,48,40-59,Female,24.3,Normal,5.1,Normal,86,130,81,171,Yes,Never,Low,14.2,Low
+P1119,77,60+,Male,24.1,Normal,6.0,Prediabetes,106,123,84,183,No,Never,High,29.9,Moderate
+P1120,71,60+,Male,29.9,Overweight,6.1,Prediabetes,190,134,84,213,Yes,Former,Low,44.4,High
+P1121,46,40-59,Male,31.3,Obese,5.7,Prediabetes,100,122,84,202,No,Never,Moderate,21.2,Moderate
+P1122,45,40-59,Female,26.4,Overweight,5.6,Normal,106,132,66,196,No,Never,High,10.6,Low
+P1123,28,18-39,Male,27.3,Overweight,5.0,Normal,88,121,73,190,No,Never,Low,4.1,Low
+P1124,81,60+,Male,22.1,Normal,5.3,Normal,96,116,77,197,Yes,Never,Moderate,10.6,Low
+P1125,40,40-59,Male,30.1,Obese,6.4,Prediabetes,95,136,74,233,No,Never,High,25.4,Moderate
+P1126,54,40-59,Male,43.2,Obese,6.1,Prediabetes,152,141,92,162,Yes,Former,Low,69.8,High
+P1127,59,40-59,Male,26.1,Overweight,5.3,Normal,140,132,86,163,Yes,Never,Moderate,22.3,Moderate
+P1128,27,18-39,Female,21.8,Normal,5.0,Normal,97,124,66,188,Yes,Never,High,7.5,Low
+P1129,19,18-39,Male,33.2,Obese,6.6,Diabetes range,105,130,90,230,Yes,Former,Moderate,86.5,High
+P1130,23,18-39,Male,33.6,Obese,5.5,Normal,119,121,77,185,No,Never,Moderate,25.9,Moderate
+P1131,49,40-59,Male,25.0,Overweight,5.5,Normal,98,126,83,266,No,Current,Moderate,29.8,Moderate
+P1132,59,40-59,Male,31.7,Obese,6.8,Diabetes range,180,122,86,191,Yes,Never,Moderate,58.5,High
+P1133,32,18-39,Male,22.6,Normal,4.9,Normal,79,114,72,209,No,Former,High,9.3,Low
+P1134,27,18-39,Male,29.6,Overweight,5.5,Normal,88,112,73,141,Yes,Never,High,8.0,Low
+P1135,53,40-59,Male,24.4,Normal,6.0,Prediabetes,185,148,83,221,Yes,Former,High,74.9,High
+P1136,24,18-39,Male,25.9,Overweight,6.3,Prediabetes,106,122,66,174,No,Never,Low,29.7,Moderate
+P1137,40,40-59,Female,33.3,Obese,5.8,Prediabetes,134,122,86,204,No,Former,Low,39.9,Moderate
+P1138,33,18-39,Male,27.2,Overweight,5.5,Normal,86,120,72,191,No,Never,Low,11.0,Low
+P1139,34,18-39,Female,22.7,Normal,5.1,Normal,82,132,90,229,No,Never,High,7.4,Low
+P1140,29,18-39,Female,30.5,Obese,6.0,Prediabetes,115,112,70,199,Yes,Never,Low,34.3,Moderate
+P1141,49,40-59,Female,27.6,Overweight,5.4,Normal,97,132,82,171,No,Former,Low,6.5,Low
+P1142,47,40-59,Female,32.2,Obese,6.4,Prediabetes,108,116,89,210,Yes,Never,Moderate,38.0,Moderate
+P1143,66,60+,Male,22.5,Normal,5.2,Normal,81,121,82,225,No,Never,High,14.0,Low
+P1144,71,60+,Male,29.5,Overweight,6.0,Prediabetes,121,115,75,168,Yes,Never,High,30.9,Moderate
+P1145,21,18-39,Female,20.4,Normal,5.2,Normal,96,98,81,197,No,Never,Low,5.3,Low
+P1146,56,40-59,Male,30.4,Obese,6.4,Prediabetes,97,128,92,163,No,Current,Moderate,23.8,Moderate
+P1147,63,60+,Female,38.6,Obese,6.8,Diabetes range,150,143,78,254,Yes,Never,Moderate,87.0,High
+P1148,38,18-39,Female,34.5,Obese,7.3,Diabetes range,132,144,76,256,Yes,Never,Low,78.6,High
+P1149,39,18-39,Male,24.3,Normal,5.2,Normal,86,117,72,196,No,Never,Moderate,15.9,Low
+P1150,44,40-59,Female,26.1,Overweight,5.2,Normal,76,118,87,150,No,Former,Moderate,18.0,Low
+P1151,70,60+,Male,32.5,Obese,5.9,Prediabetes,119,128,98,190,No,Current,High,24.0,Moderate
+P1152,69,60+,Female,27.2,Overweight,7.1,Diabetes range,153,127,86,190,Yes,Current,Moderate,68.1,High
+P1153,80,60+,Male,18.5,Normal,5.6,Normal,85,103,75,208,No,Never,Moderate,10.3,Low
+P1154,44,40-59,Male,33.7,Obese,5.9,Prediabetes,154,139,88,176,Yes,Never,High,82.7,High
+P1155,60,60+,Female,30.8,Obese,7.0,Diabetes range,105,135,84,214,No,Never,Low,71.3,High
+P1156,41,40-59,Female,36.9,Obese,5.6,Normal,99,155,71,189,No,Never,Moderate,31.1,Moderate
+P1157,53,40-59,Female,23.3,Normal,5.0,Normal,85,129,78,153,No,Former,Low,15.5,Low
+P1158,47,40-59,Female,29.7,Overweight,5.6,Normal,99,123,86,216,No,Former,Moderate,14.4,Low
+P1159,73,60+,Female,28.6,Overweight,5.7,Prediabetes,98,131,80,214,No,Never,Moderate,29.5,Moderate
+P1160,59,40-59,Male,23.1,Normal,5.8,Prediabetes,108,113,69,155,No,Former,Moderate,5.8,Low
+P1161,84,60+,Male,25.7,Overweight,5.7,Prediabetes,98,116,80,197,Yes,Never,Moderate,8.2,Low
+P1162,33,18-39,Female,23.1,Normal,5.3,Normal,93,125,74,195,No,Never,Low,8.3,Low
+P1163,58,40-59,Female,31.2,Obese,5.2,Normal,101,117,86,238,No,Never,Moderate,25.5,Moderate
+P1164,67,60+,Female,28.0,Overweight,5.6,Normal,101,119,80,237,Yes,Former,Moderate,23.9,Moderate
+P1165,56,40-59,Male,20.6,Normal,5.4,Normal,88,107,80,193,No,Former,Low,13.2,Low
+P1166,20,18-39,Male,23.3,Normal,5.6,Normal,79,119,81,214,Yes,Never,Moderate,15.8,Low
+P1167,32,18-39,Female,22.1,Normal,5.3,Normal,92,132,75,161,No,Former,Moderate,14.4,Low
+P1168,49,40-59,Female,23.7,Normal,5.2,Normal,103,114,75,130,No,Never,High,13.0,Low
+P1169,37,18-39,Female,37.1,Obese,6.5,Diabetes range,116,160,73,188,Yes,Never,Moderate,69.5,High
+P1170,19,18-39,Male,28.3,Overweight,6.2,Prediabetes,140,139,73,160,Yes,Never,Low,37.5,Moderate
+P1171,57,40-59,Female,26.7,Overweight,5.2,Normal,114,145,84,200,No,Current,Moderate,26.9,Moderate
+P1172,36,18-39,Female,26.1,Overweight,6.0,Prediabetes,138,123,84,222,Yes,Never,High,61.9,High
+P1173,42,40-59,Male,24.2,Normal,5.1,Normal,103,128,82,181,No,Current,Moderate,17.2,Low
+P1174,22,18-39,Male,27.2,Overweight,5.5,Normal,88,120,69,191,No,Never,High,8.1,Low
+P1175,79,60+,Female,26.3,Overweight,6.6,Diabetes range,162,161,80,248,Yes,Former,Low,87.1,High
+P1176,55,40-59,Male,24.2,Normal,6.3,Prediabetes,85,141,70,250,No,Never,Moderate,28.3,Moderate
+P1177,48,40-59,Male,22.0,Normal,5.5,Normal,94,125,79,155,Yes,Never,High,14.5,Low
+P1178,18,18-39,Male,25.2,Overweight,5.0,Normal,72,130,83,194,No,Never,Low,7.7,Low
+P1179,50,40-59,Male,28.7,Overweight,5.3,Normal,91,115,61,193,No,Current,High,9.2,Low
+P1180,39,18-39,Male,24.0,Normal,5.2,Normal,85,109,74,226,No,Former,Moderate,13.8,Low
+P1181,79,60+,Male,21.0,Normal,5.5,Normal,84,114,79,165,No,Current,High,15.7,Low
+P1182,69,60+,Female,36.1,Obese,6.3,Prediabetes,135,166,91,177,No,Never,Low,74.4,High
+P1183,85,60+,Female,24.6,Normal,5.3,Normal,95,119,80,197,Yes,Never,Moderate,5.1,Low
+P1184,38,18-39,Male,24.6,Normal,5.9,Prediabetes,85,135,71,189,No,Former,High,7.1,Low
+P1185,22,18-39,Female,31.3,Obese,6.8,Diabetes range,155,137,90,196,Yes,Never,Moderate,55.6,High
+P1186,28,18-39,Male,20.5,Normal,6.1,Prediabetes,123,141,79,140,No,Never,Moderate,37.6,Moderate
+P1187,70,60+,Female,25.5,Overweight,6.1,Prediabetes,123,124,63,177,No,Never,Moderate,34.6,Moderate
+P1188,44,40-59,Female,29.1,Overweight,6.3,Prediabetes,114,140,72,204,No,Current,Low,33.1,Moderate
+P1189,58,40-59,Male,19.8,Normal,5.0,Normal,107,120,62,206,No,Current,Moderate,9.0,Low
+P1190,83,60+,Female,33.4,Obese,5.9,Prediabetes,143,164,85,229,Yes,Never,Low,64.2,High
+P1191,57,40-59,Female,26.6,Overweight,5.0,Normal,93,119,70,194,Yes,Never,High,12.3,Low
+P1192,71,60+,Female,33.6,Obese,7.2,Diabetes range,166,148,97,232,No,Never,Low,51.0,High
+P1193,78,60+,Female,30.8,Obese,5.1,Normal,88,103,76,216,No,Never,High,13.2,Low
+P1194,19,18-39,Female,27.6,Overweight,6.0,Prediabetes,122,130,74,254,No,Never,High,28.1,Moderate
+P1195,64,60+,Female,30.1,Obese,7.1,Diabetes range,145,136,79,201,No,Never,Moderate,72.5,High
+P1196,77,60+,Female,27.1,Overweight,6.6,Diabetes range,117,144,90,220,No,Never,High,79.0,High
+P1197,62,60+,Female,24.5,Normal,5.5,Normal,94,130,82,189,Yes,Never,Moderate,36.3,Moderate
+P1198,45,40-59,Female,25.9,Overweight,5.5,Normal,85,136,76,174,No,Former,Low,12.4,Low
+P1199,66,60+,Male,28.8,Overweight,7.0,Diabetes range,181,131,84,182,Yes,Never,High,83.1,High
+P1200,30,18-39,Male,29.5,Overweight,5.5,Normal,86,128,68,146,No,Never,High,7.9,Low
+P1201,48,40-59,Female,30.7,Obese,6.7,Diabetes range,127,119,78,217,Yes,Never,High,73.3,High
+P1202,55,40-59,Female,22.1,Normal,5.6,Normal,86,121,67,130,No,Current,Low,12.4,Low
+P1203,44,40-59,Female,26.2,Overweight,5.5,Normal,103,117,66,251,No,Never,High,12.4,Low
+P1204,80,60+,Female,27.5,Overweight,5.7,Prediabetes,105,114,78,170,Yes,Never,High,30.4,Moderate
+P1205,51,40-59,Male,29.0,Overweight,5.8,Prediabetes,85,121,73,235,Yes,Never,Low,26.1,Moderate
+P1206,71,60+,Female,26.7,Overweight,5.2,Normal,110,119,75,162,Yes,Never,Low,6.1,Low
+P1207,59,40-59,Female,23.8,Normal,6.0,Prediabetes,118,130,74,204,No,Current,High,22.0,Moderate
+P1208,40,40-59,Male,22.7,Normal,5.1,Normal,91,117,64,150,No,Former,Low,16.7,Low
+P1209,43,40-59,Male,29.9,Overweight,5.9,Prediabetes,119,125,76,186,No,Current,Moderate,23.4,Moderate
+P1210,42,40-59,Male,18.5,Normal,5.6,Normal,84,123,75,190,Yes,Never,High,15.8,Low
+P1211,29,18-39,Female,25.6,Overweight,5.2,Normal,114,127,82,188,No,Former,Low,20.6,Moderate
+P1212,63,60+,Male,29.6,Overweight,5.5,Normal,93,126,70,134,No,Current,High,24.6,Moderate
+P1213,25,18-39,Male,25.9,Overweight,5.9,Prediabetes,90,126,77,237,No,Never,Moderate,11.8,Low
+P1214,40,40-59,Male,26.3,Overweight,6.8,Diabetes range,152,152,72,203,No,Never,High,44.6,High
+P1215,21,18-39,Female,21.2,Normal,5.6,Normal,92,138,77,216,No,Never,Moderate,8.1,Low
+P1216,39,18-39,Female,25.8,Overweight,5.4,Normal,94,111,61,153,No,Never,Moderate,10.6,Low
+P1217,61,60+,Female,24.4,Normal,5.3,Normal,95,118,67,218,No,Never,Low,16.6,Low
+P1218,27,18-39,Female,27.6,Overweight,5.2,Normal,91,114,70,158,Yes,Former,Moderate,13.5,Low
+P1219,51,40-59,Female,35.9,Obese,5.2,Normal,108,139,66,160,No,Never,Low,29.0,Moderate
+P1220,63,60+,Male,34.0,Obese,6.6,Diabetes range,105,149,78,277,No,Never,Moderate,79.9,High
+P1221,45,40-59,Male,26.5,Overweight,6.1,Prediabetes,85,114,78,213,No,Never,Moderate,38.2,Moderate
+P1222,39,18-39,Female,20.0,Normal,5.9,Prediabetes,102,135,85,231,No,Never,Low,32.8,Moderate
+P1223,82,60+,Female,27.6,Overweight,6.3,Prediabetes,115,123,88,200,Yes,Current,High,30.4,Moderate
+P1224,51,40-59,Female,26.5,Overweight,5.5,Normal,106,125,84,239,Yes,Never,Low,20.3,Moderate
+P1225,78,60+,Female,33.9,Obese,6.8,Diabetes range,130,132,78,210,No,Never,High,59.5,High
+P1226,55,40-59,Female,25.7,Overweight,6.0,Prediabetes,104,137,91,218,No,Former,Moderate,36.6,Moderate
+P1227,65,60+,Female,22.3,Normal,4.8,Normal,110,132,83,167,Yes,Never,High,9.2,Low
+P1228,45,40-59,Male,23.9,Normal,5.5,Normal,118,141,74,244,Yes,Former,High,30.6,Moderate
+P1229,67,60+,Female,28.1,Overweight,5.2,Normal,77,129,71,179,No,Never,Low,10.7,Low
+P1230,24,18-39,Female,25.9,Overweight,6.4,Prediabetes,130,134,87,226,No,Never,Low,57.0,High
+P1231,64,60+,Male,21.7,Normal,5.3,Normal,96,114,76,178,No,Former,High,17.4,Low
+P1232,35,18-39,Male,24.2,Normal,5.5,Normal,98,138,64,189,No,Former,Moderate,4.9,Low
+P1233,72,60+,Female,32.1,Obese,6.8,Diabetes range,164,144,81,251,No,Current,Low,55.1,High
+P1234,53,40-59,Male,27.1,Overweight,5.7,Prediabetes,99,138,81,244,Yes,Current,Low,21.6,Moderate
+P1235,54,40-59,Female,30.2,Obese,6.1,Prediabetes,105,175,88,239,No,Former,Moderate,79.0,High
+P1236,67,60+,Male,22.7,Normal,4.8,Normal,88,97,86,185,No,Former,Moderate,6.2,Low
+P1237,38,18-39,Male,31.3,Obese,5.0,Normal,104,119,71,190,No,Current,High,10.4,Low
+P1238,62,60+,Female,25.9,Overweight,5.2,Normal,86,110,68,214,No,Never,Moderate,5.2,Low
+P1239,34,18-39,Female,27.0,Overweight,5.7,Prediabetes,101,130,77,254,Yes,Never,Moderate,31.4,Moderate
+P1240,47,40-59,Male,23.8,Normal,5.8,Prediabetes,86,124,71,220,No,Former,Low,28.4,Moderate
+P1241,35,18-39,Female,21.7,Normal,5.7,Prediabetes,98,125,81,240,No,Former,Low,4.5,Low
+P1242,67,60+,Female,27.2,Overweight,5.4,Normal,95,99,76,223,Yes,Current,Moderate,17.8,Low
+P1243,29,18-39,Female,34.3,Obese,5.4,Normal,116,129,84,193,Yes,Never,Moderate,23.3,Moderate
+P1244,28,18-39,Male,26.1,Overweight,5.4,Normal,88,122,76,223,No,Never,Moderate,16.5,Low
+P1245,44,40-59,Female,33.8,Obese,6.3,Prediabetes,108,105,87,189,No,Never,Moderate,29.2,Moderate
+P1246,48,40-59,Female,30.6,Obese,5.3,Normal,109,132,83,216,No,Former,Moderate,39.4,Moderate
+P1247,70,60+,Male,20.9,Normal,5.4,Normal,93,99,66,176,No,Never,Low,16.0,Low
+P1248,22,18-39,Female,23.5,Normal,5.3,Normal,91,119,82,234,No,Never,Moderate,8.4,Low
+P1249,45,40-59,Male,22.7,Normal,5.8,Prediabetes,96,115,81,199,No,Former,Moderate,14.2,Low
+P1250,44,40-59,Male,26.5,Overweight,6.2,Prediabetes,134,131,82,202,Yes,Never,Moderate,79.6,High
+P1251,19,18-39,Female,36.6,Obese,7.1,Diabetes range,139,120,86,174,Yes,Never,Moderate,53.6,High
+P1252,41,40-59,Female,33.7,Obese,5.9,Prediabetes,125,144,90,215,No,Never,High,58.0,High
+P1253,61,60+,Male,36.8,Obese,6.2,Prediabetes,116,149,88,249,Yes,Never,Moderate,78.6,High
+P1254,48,40-59,Male,24.8,Normal,4.9,Normal,105,116,74,201,No,Never,Low,13.0,Low
+P1255,47,40-59,Female,32.5,Obese,6.3,Prediabetes,107,119,84,249,No,Former,Low,25.3,Moderate
+P1256,20,18-39,Female,21.6,Normal,5.6,Normal,93,118,78,224,No,Current,High,5.3,Low
+P1257,78,60+,Female,35.7,Obese,7.2,Diabetes range,180,149,84,223,No,Current,Low,78.0,High
+P1258,85,60+,Female,19.3,Normal,4.8,Normal,97,98,78,188,Yes,Current,Moderate,5.7,Low
+P1259,47,40-59,Female,22.7,Normal,5.4,Normal,95,116,72,190,No,Never,Moderate,7.3,Low
+P1260,22,18-39,Female,27.9,Overweight,5.3,Normal,104,105,86,163,No,Current,Moderate,23.9,Moderate
+P1261,25,18-39,Male,25.5,Overweight,5.0,Normal,92,116,66,188,No,Former,High,17.5,Low
+P1262,46,40-59,Female,35.4,Obese,6.9,Diabetes range,142,151,86,183,Yes,Never,Moderate,86.7,High
+P1263,50,40-59,Female,32.1,Obese,6.7,Diabetes range,105,149,77,248,Yes,Never,Moderate,57.2,High
+P1264,21,18-39,Female,22.1,Normal,5.4,Normal,84,128,85,185,No,Never,Low,17.3,Low
+P1265,66,60+,Male,25.5,Overweight,5.6,Normal,89,111,66,171,Yes,Former,High,17.6,Low
+P1266,58,40-59,Female,29.3,Overweight,6.1,Prediabetes,104,110,82,152,No,Former,Low,22.1,Moderate
+P1267,53,40-59,Female,27.0,Overweight,5.6,Normal,87,104,70,192,Yes,Former,High,17.1,Low
+P1268,76,60+,Female,31.2,Obese,5.8,Prediabetes,115,133,76,163,No,Never,High,38.3,Moderate
+P1269,49,40-59,Female,30.8,Obese,5.5,Normal,120,129,74,202,Yes,Former,Low,21.2,Moderate
+P1270,49,40-59,Female,29.6,Overweight,5.6,Normal,110,127,75,202,No,Former,High,30.2,Moderate
+P1271,58,40-59,Male,21.4,Normal,5.7,Prediabetes,106,133,75,143,No,Never,Low,34.6,Moderate
+P1272,74,60+,Male,22.3,Normal,5.2,Normal,78,129,64,248,No,Never,Moderate,13.9,Low
+P1273,59,40-59,Female,20.9,Normal,5.6,Normal,91,108,68,167,No,Never,Moderate,13.0,Low
+P1274,51,40-59,Male,27.3,Overweight,4.8,Normal,87,121,68,175,No,Never,High,9.5,Low
+P1275,28,18-39,Male,36.1,Obese,6.4,Prediabetes,160,138,92,212,Yes,Current,High,70.6,High
+P1276,62,60+,Male,27.8,Overweight,5.5,Normal,86,113,86,193,No,Never,Low,4.3,Low
+P1277,41,40-59,Female,21.4,Normal,5.7,Prediabetes,111,122,72,206,No,Never,Moderate,15.7,Low
+P1278,34,18-39,Female,25.4,Overweight,5.7,Prediabetes,91,111,65,280,No,Never,Moderate,9.9,Low
+P1279,78,60+,Male,22.8,Normal,5.2,Normal,111,102,82,183,No,Current,Low,17.0,Low
+P1280,53,40-59,Male,32.7,Obese,5.8,Prediabetes,111,123,60,218,Yes,Never,Moderate,30.4,Moderate
+P1281,18,18-39,Female,26.7,Overweight,5.2,Normal,112,128,76,197,No,Never,Moderate,4.7,Low
+P1282,41,40-59,Female,29.8,Overweight,6.2,Prediabetes,119,144,74,199,No,Former,High,68.0,High
+P1283,53,40-59,Male,27.4,Overweight,6.0,Prediabetes,113,116,87,193,Yes,Never,Low,26.4,Moderate
+P1284,56,40-59,Female,32.3,Obese,6.7,Diabetes range,105,121,79,214,No,Current,Low,78.8,High
+P1285,60,60+,Male,18.5,Normal,5.4,Normal,81,120,84,217,No,Never,High,4.5,Low
+P1286,67,60+,Female,28.3,Overweight,5.0,Normal,91,124,82,207,No,Never,High,4.1,Low
+P1287,59,40-59,Male,28.2,Overweight,5.3,Normal,98,118,83,217,No,Former,Moderate,14.9,Low
+P1288,33,18-39,Female,24.1,Normal,5.6,Normal,80,122,76,186,No,Never,Moderate,12.1,Low
+P1289,52,40-59,Male,35.1,Obese,5.4,Normal,122,121,83,222,No,Former,Low,28.0,Moderate
+P1290,46,40-59,Male,18.5,Normal,5.4,Normal,86,126,67,200,No,Former,High,16.1,Low
+P1291,64,60+,Female,27.5,Overweight,6.2,Prediabetes,105,165,82,162,Yes,Former,Low,83.5,High
+P1292,68,60+,Male,32.7,Obese,5.8,Prediabetes,131,137,87,206,Yes,Never,Low,21.0,Moderate
+P1293,31,18-39,Male,18.6,Normal,5.3,Normal,90,126,55,141,No,Never,Moderate,17.1,Low
+P1294,82,60+,Male,32.4,Obese,6.2,Prediabetes,122,123,63,160,Yes,Never,Moderate,28.7,Moderate
+P1295,48,40-59,Female,18.5,Normal,4.8,Normal,86,125,63,173,Yes,Never,High,13.7,Low
+P1296,29,18-39,Female,25.7,Overweight,5.5,Normal,112,135,82,179,Yes,Current,High,28.3,Moderate
+P1297,42,40-59,Female,22.7,Normal,5.7,Prediabetes,116,127,76,200,No,Never,Low,27.6,Moderate
+P1298,83,60+,Male,30.8,Obese,6.8,Diabetes range,128,136,78,200,Yes,Never,Low,45.8,High
+P1299,74,60+,Female,29.8,Overweight,5.8,Prediabetes,113,124,83,195,No,Former,Moderate,34.1,Moderate
+P1300,50,40-59,Male,32.0,Obese,6.3,Prediabetes,103,122,82,202,No,Never,Low,36.5,Moderate
+P1301,31,18-39,Female,32.5,Obese,5.3,Normal,105,128,86,228,Yes,Current,Moderate,25.7,Moderate
+P1302,28,18-39,Male,27.2,Overweight,5.3,Normal,88,142,83,130,No,Never,Low,33.1,Moderate
+P1303,80,60+,Female,34.9,Obese,6.7,Diabetes range,114,146,68,228,Yes,Never,Moderate,44.4,High
+P1304,67,60+,Female,29.7,Overweight,5.6,Normal,112,128,92,218,No,Current,Low,24.4,Moderate
+P1305,40,40-59,Male,30.5,Obese,5.8,Prediabetes,112,117,72,199,No,Never,Moderate,21.6,Moderate
+P1306,27,18-39,Male,27.4,Overweight,5.2,Normal,96,110,69,201,No,Never,Low,15.9,Low
+P1307,35,18-39,Female,29.1,Overweight,5.5,Normal,111,147,78,172,No,Never,Low,29.4,Moderate
+P1308,59,40-59,Female,21.7,Normal,5.7,Prediabetes,108,121,76,249,Yes,Never,High,14.7,Low
+P1309,50,40-59,Female,24.9,Normal,5.8,Prediabetes,81,98,95,181,No,Never,Low,8.3,Low
+P1310,22,18-39,Male,22.4,Normal,5.4,Normal,96,115,82,227,No,Never,High,12.6,Low
+P1311,51,40-59,Male,34.0,Obese,6.6,Diabetes range,148,137,86,241,Yes,Current,Moderate,75.4,High
+P1312,42,40-59,Male,24.6,Normal,5.0,Normal,89,113,74,166,No,Current,High,9.2,Low
+P1313,40,40-59,Female,27.3,Overweight,5.5,Normal,124,127,81,215,No,Former,Moderate,26.4,Moderate
+P1314,33,18-39,Female,20.2,Normal,5.4,Normal,94,117,75,211,No,Never,Moderate,14.6,Low
+P1315,53,40-59,Male,35.7,Obese,6.2,Prediabetes,104,132,77,234,No,Current,High,24.1,Moderate
+P1316,35,18-39,Male,21.9,Normal,5.2,Normal,92,120,73,191,No,Never,High,8.8,Low
+P1317,23,18-39,Male,23.9,Normal,5.2,Normal,89,95,81,186,No,Never,High,8.3,Low
+P1318,46,40-59,Male,28.1,Overweight,6.0,Prediabetes,98,122,78,222,No,Never,Low,29.6,Moderate
+P1319,53,40-59,Male,36.1,Obese,5.5,Normal,112,131,81,185,Yes,Never,High,34.0,Moderate
+P1320,83,60+,Female,32.9,Obese,7.9,Diabetes range,127,134,73,182,No,Former,Low,77.6,High
+P1321,42,40-59,Female,23.2,Normal,5.3,Normal,98,113,77,191,No,Never,Moderate,16.5,Low
+P1322,27,18-39,Female,34.8,Obese,7.0,Diabetes range,152,144,93,233,No,Never,Low,68.4,High
+P1323,61,60+,Male,21.8,Normal,4.8,Normal,99,118,79,146,No,Former,Moderate,6.9,Low
+P1324,21,18-39,Female,26.0,Overweight,5.5,Normal,94,127,69,144,No,Never,Moderate,14.4,Low
+P1325,29,18-39,Male,22.9,Normal,5.9,Prediabetes,113,118,87,215,No,Never,Moderate,25.0,Moderate
+P1326,26,18-39,Female,30.1,Obese,5.6,Normal,114,111,78,196,No,Former,Moderate,31.1,Moderate
+P1327,50,40-59,Female,36.2,Obese,6.1,Prediabetes,103,113,78,214,Yes,Never,High,30.1,Moderate
+P1328,30,18-39,Female,29.4,Overweight,5.4,Normal,98,138,79,219,Yes,Current,Moderate,28.3,Moderate
+P1329,21,18-39,Female,28.3,Overweight,5.7,Prediabetes,112,142,74,229,Yes,Never,High,29.2,Moderate
+P1330,33,18-39,Female,19.0,Normal,5.1,Normal,104,137,83,200,No,Current,Low,14.3,Low
+P1331,51,40-59,Female,25.7,Overweight,5.6,Normal,120,134,73,194,Yes,Never,Moderate,34.4,Moderate
+P1332,40,40-59,Female,28.1,Overweight,6.2,Prediabetes,126,120,80,200,No,Never,High,22.4,Moderate
+P1333,51,40-59,Female,37.8,Obese,7.4,Diabetes range,105,139,81,230,No,Never,Moderate,72.0,High
+P1334,26,18-39,Male,24.9,Normal,5.5,Normal,106,124,72,185,No,Never,High,10.5,Low
+P1335,66,60+,Female,23.4,Normal,5.8,Prediabetes,77,127,79,196,Yes,Never,Moderate,15.2,Low
+P1336,60,60+,Female,33.1,Obese,6.7,Diabetes range,152,132,72,252,Yes,Never,Low,66.2,High
+P1337,46,40-59,Female,38.2,Obese,6.1,Prediabetes,125,138,89,234,Yes,Former,Moderate,87.6,High
+P1338,25,18-39,Male,21.7,Normal,5.6,Normal,75,145,68,187,No,Never,Low,13.3,Low
+P1339,75,60+,Male,22.0,Normal,5.2,Normal,94,123,70,231,No,Former,Moderate,11.8,Low
+P1340,33,18-39,Female,23.6,Normal,5.0,Normal,92,127,72,226,No,Never,Moderate,13.7,Low
+P1341,42,40-59,Female,25.1,Overweight,5.0,Normal,95,124,76,197,No,Never,High,11.1,Low
+P1342,46,40-59,Female,28.5,Overweight,4.9,Normal,92,116,71,195,No,Current,Moderate,16.2,Low
+P1343,25,18-39,Female,28.3,Overweight,5.6,Normal,104,122,63,241,No,Former,Moderate,24.0,Moderate
+P1344,51,40-59,Male,33.8,Obese,5.2,Normal,116,136,90,138,Yes,Never,High,28.0,Moderate
+P1345,33,18-39,Female,21.7,Normal,4.8,Normal,89,99,91,157,No,Never,High,9.4,Low
+P1346,45,40-59,Female,30.3,Obese,5.3,Normal,87,112,81,212,No,Never,Moderate,4.7,Low
+P1347,51,40-59,Male,24.8,Normal,5.2,Normal,104,115,80,160,No,Never,Moderate,14.0,Low
+P1348,65,60+,Male,34.1,Obese,7.4,Diabetes range,121,156,84,203,No,Never,Moderate,88.6,High
+P1349,40,40-59,Male,32.4,Obese,5.3,Normal,96,113,73,176,No,Former,Moderate,13.2,Low
+P1350,54,40-59,Male,31.4,Obese,5.8,Prediabetes,97,129,86,197,No,Former,High,34.7,Moderate
+P1351,37,18-39,Female,27.5,Overweight,5.5,Normal,90,122,70,215,No,Former,High,13.0,Low
+P1352,30,18-39,Male,27.4,Overweight,5.5,Normal,101,107,72,180,Yes,Never,Moderate,11.6,Low
+P1353,49,40-59,Female,25.7,Overweight,5.6,Normal,133,124,66,242,Yes,Never,High,20.5,Moderate
+P1354,20,18-39,Female,28.7,Overweight,6.3,Prediabetes,122,145,77,220,No,Never,Low,34.8,Moderate
+P1355,27,18-39,Female,30.1,Obese,4.8,Normal,101,124,85,215,No,Current,Low,4.8,Low
+P1356,71,60+,Male,22.0,Normal,5.3,Normal,109,106,83,216,No,Never,Low,11.7,Low
+P1357,20,18-39,Male,23.5,Normal,5.3,Normal,88,123,68,237,No,Never,Low,5.9,Low
+P1358,21,18-39,Female,25.9,Overweight,5.2,Normal,111,129,80,192,No,Former,Moderate,8.8,Low
+P1359,44,40-59,Male,28.4,Overweight,5.9,Prediabetes,100,121,75,216,No,Never,Low,11.0,Low
+P1360,78,60+,Male,28.9,Overweight,6.4,Prediabetes,148,151,80,182,No,Former,Low,43.3,High
+P1361,52,40-59,Male,35.5,Obese,5.2,Normal,118,144,69,227,No,Never,Moderate,33.7,Moderate
+P1362,29,18-39,Female,29.1,Overweight,5.7,Prediabetes,97,114,70,191,No,Former,Moderate,16.8,Low
+P1363,56,40-59,Female,34.0,Obese,6.3,Prediabetes,146,138,90,243,Yes,Former,Low,78.8,High
+P1364,41,40-59,Female,31.7,Obese,5.9,Prediabetes,159,150,84,190,No,Never,High,72.4,High
+P1365,32,18-39,Female,26.3,Overweight,4.8,Normal,76,124,70,175,No,Never,High,11.8,Low
+P1366,34,18-39,Male,18.5,Normal,5.9,Prediabetes,96,120,83,234,Yes,Former,Low,13.8,Low
+P1367,47,40-59,Male,22.3,Normal,5.6,Normal,93,120,82,144,Yes,Former,High,14.1,Low
+P1368,52,40-59,Female,25.3,Overweight,5.6,Normal,81,126,78,190,No,Current,High,4.3,Low
+P1369,21,18-39,Female,23.3,Normal,5.8,Prediabetes,89,140,78,219,No,Current,High,15.9,Low
+P1370,51,40-59,Male,29.0,Overweight,5.3,Normal,82,128,68,190,No,Former,Low,13.9,Low
+P1371,35,18-39,Female,28.5,Overweight,5.4,Normal,74,118,84,254,Yes,Former,Moderate,14.5,Low
+P1372,42,40-59,Female,27.4,Overweight,5.2,Normal,106,129,84,162,Yes,Never,Moderate,21.5,Moderate
+P1373,55,40-59,Female,27.3,Overweight,5.2,Normal,88,109,62,143,Yes,Never,Moderate,11.9,Low
+P1374,51,40-59,Female,31.1,Obese,5.6,Normal,99,126,82,147,No,Never,Low,24.8,Moderate
+P1375,84,60+,Female,31.9,Obese,6.2,Prediabetes,120,114,78,223,No,Never,High,24.0,Moderate
+P1376,83,60+,Male,21.4,Normal,4.8,Normal,96,109,83,208,No,Never,Moderate,15.7,Low
+P1377,45,40-59,Female,25.1,Overweight,5.3,Normal,101,122,71,185,No,Former,High,15.6,Low
+P1378,82,60+,Female,25.6,Overweight,5.3,Normal,83,121,76,219,No,Never,High,9.2,Low
+P1379,48,40-59,Female,37.9,Obese,7.2,Diabetes range,150,140,74,230,No,Never,Moderate,86.0,High
+P1380,64,60+,Male,20.5,Normal,5.2,Normal,92,113,73,217,No,Never,Moderate,12.8,Low
+P1381,57,40-59,Male,32.8,Obese,5.5,Normal,118,141,75,130,No,Never,Low,22.7,Moderate
+P1382,45,40-59,Female,26.7,Overweight,5.8,Prediabetes,91,140,66,216,No,Never,Moderate,4.8,Low
+P1383,41,40-59,Male,31.1,Obese,5.8,Prediabetes,109,130,80,166,Yes,Never,Moderate,35.8,Moderate
+P1384,37,18-39,Male,21.1,Normal,5.2,Normal,79,115,75,216,No,Never,Moderate,9.8,Low
+P1385,32,18-39,Male,29.2,Overweight,5.3,Normal,120,144,80,180,No,Current,Moderate,24.2,Moderate
+P1386,31,18-39,Female,26.6,Overweight,5.2,Normal,100,133,77,221,Yes,Former,Moderate,14.5,Low
+P1387,78,60+,Female,30.3,Obese,6.0,Prediabetes,110,138,75,172,No,Former,Moderate,24.7,Moderate
+P1388,54,40-59,Female,29.8,Overweight,7.0,Diabetes range,137,122,79,236,Yes,Never,Low,83.2,High
+P1389,58,40-59,Female,32.7,Obese,7.4,Diabetes range,126,126,85,258,Yes,Never,Low,55.1,High
+P1390,34,18-39,Male,29.3,Overweight,5.0,Normal,76,122,69,181,No,Never,Moderate,12.6,Low
+P1391,45,40-59,Female,25.7,Overweight,4.9,Normal,93,135,71,130,Yes,Never,Moderate,4.4,Low
+P1392,21,18-39,Male,24.2,Normal,5.6,Normal,90,120,82,206,No,Never,High,5.9,Low
+P1393,49,40-59,Male,29.0,Overweight,4.8,Normal,80,104,73,218,Yes,Never,Low,9.7,Low
+P1394,20,18-39,Female,23.7,Normal,5.4,Normal,92,122,66,171,No,Never,High,14.4,Low
+P1395,56,40-59,Male,21.8,Normal,5.4,Normal,82,129,72,163,No,Never,High,11.0,Low
+P1396,84,60+,Female,40.0,Obese,7.6,Diabetes range,115,151,93,204,No,Never,Low,57.3,High
+P1397,79,60+,Female,26.9,Overweight,5.7,Prediabetes,85,133,87,236,No,Former,Low,21.4,Moderate
+P1398,41,40-59,Female,29.0,Overweight,5.8,Prediabetes,102,135,75,206,No,Former,Low,26.3,Moderate
+P1399,50,40-59,Male,31.5,Obese,5.4,Normal,82,122,74,162,No,Never,High,4.9,Low
+P1400,37,18-39,Female,28.4,Overweight,5.5,Normal,79,123,78,180,Yes,Former,High,7.4,Low
+P1401,21,18-39,Female,23.7,Normal,5.1,Normal,92,110,64,170,No,Former,Moderate,17.3,Low
+P1402,55,40-59,Female,26.4,Overweight,4.8,Normal,86,115,79,209,No,Never,High,14.0,Low
+P1403,20,18-39,Male,23.9,Normal,5.2,Normal,82,107,74,165,Yes,Never,Low,13.3,Low
+P1404,71,60+,Male,23.3,Normal,5.6,Normal,78,113,75,212,No,Never,High,9.2,Low
+P1405,35,18-39,Female,24.6,Normal,5.5,Normal,80,100,76,185,No,Never,High,5.9,Low
+P1406,62,60+,Female,24.5,Normal,5.5,Normal,113,132,60,198,No,Former,Moderate,36.9,Moderate
+P1407,46,40-59,Female,30.5,Obese,6.9,Diabetes range,133,157,72,242,Yes,Never,Low,58.1,High
+P1408,28,18-39,Female,27.2,Overweight,5.4,Normal,91,125,87,175,No,Current,High,7.2,Low
+P1409,50,40-59,Male,27.6,Overweight,5.9,Prediabetes,102,119,80,181,Yes,Never,Moderate,35.8,Moderate
+P1410,57,40-59,Female,29.4,Overweight,5.4,Normal,93,115,79,180,No,Current,High,13.0,Low
+P1411,42,40-59,Female,35.0,Obese,5.7,Prediabetes,112,133,66,211,No,Never,High,37.2,Moderate
+P1412,42,40-59,Female,34.5,Obese,5.6,Normal,105,130,67,228,No,Former,Moderate,27.6,Moderate
+P1413,47,40-59,Male,29.0,Overweight,5.2,Normal,82,98,69,171,No,Current,High,13.3,Low
+P1414,59,40-59,Female,26.6,Overweight,6.1,Prediabetes,124,128,89,196,Yes,Never,Moderate,22.3,Moderate
+P1415,77,60+,Male,33.2,Obese,6.3,Prediabetes,148,134,97,236,Yes,Current,Low,61.8,High
+P1416,38,18-39,Male,27.2,Overweight,6.0,Prediabetes,97,125,66,181,Yes,Never,Low,36.5,Moderate
+P1417,42,40-59,Male,29.1,Overweight,6.0,Prediabetes,100,132,71,220,No,Current,High,31.2,Moderate
+P1418,45,40-59,Female,24.0,Normal,7.3,Diabetes range,197,147,76,204,Yes,Never,Moderate,60.1,High
+P1419,57,40-59,Female,24.6,Normal,5.7,Prediabetes,94,110,72,202,No,Never,High,13.5,Low
+P1420,77,60+,Male,23.4,Normal,5.0,Normal,91,112,84,212,Yes,Never,High,7.8,Low
+P1421,61,60+,Female,29.7,Overweight,5.7,Prediabetes,113,134,82,138,Yes,Current,Moderate,26.0,Moderate
+P1422,33,18-39,Female,20.6,Normal,4.9,Normal,90,110,81,198,No,Never,Low,4.4,Low
+P1423,74,60+,Female,39.8,Obese,6.4,Prediabetes,169,146,100,250,Yes,Never,Low,67.6,High
+P1424,53,40-59,Female,28.0,Overweight,5.6,Normal,102,129,76,184,Yes,Current,Moderate,6.0,Low
+P1425,30,18-39,Female,20.4,Normal,5.2,Normal,100,136,75,204,Yes,Former,Moderate,14.9,Low
+P1426,67,60+,Female,22.8,Normal,5.2,Normal,95,117,71,169,No,Former,Moderate,11.4,Low
+P1427,45,40-59,Female,24.2,Normal,5.4,Normal,100,122,71,221,No,Never,Moderate,12.6,Low
+P1428,46,40-59,Male,30.4,Obese,5.8,Prediabetes,94,129,77,182,No,Never,High,39.2,Moderate
+P1429,56,40-59,Male,28.9,Overweight,5.1,Normal,88,117,68,239,No,Never,Low,8.0,Low
+P1430,39,18-39,Female,24.8,Normal,5.0,Normal,91,124,85,196,No,Former,Moderate,14.5,Low
+P1431,35,18-39,Female,23.5,Normal,5.0,Normal,85,120,82,160,Yes,Never,High,14.0,Low
+P1432,51,40-59,Female,24.8,Normal,5.6,Normal,115,119,88,168,No,Former,Moderate,11.5,Low
+P1433,35,18-39,Female,27.8,Overweight,5.2,Normal,95,116,77,206,Yes,Never,High,6.5,Low
+P1434,45,40-59,Female,23.1,Normal,6.4,Prediabetes,124,126,94,200,Yes,Never,High,27.6,Moderate
+P1435,43,40-59,Female,36.1,Obese,6.8,Diabetes range,135,140,86,218,No,Never,Moderate,52.0,High
+P1436,50,40-59,Female,33.6,Obese,6.6,Diabetes range,127,151,77,226,No,Former,Low,61.9,High
+P1437,60,60+,Female,22.8,Normal,5.6,Normal,103,133,73,200,No,Never,High,4.7,Low
+P1438,66,60+,Female,28.7,Overweight,6.0,Prediabetes,115,110,68,186,No,Never,Moderate,26.8,Moderate
+P1439,42,40-59,Male,25.9,Overweight,5.7,Prediabetes,100,124,80,194,Yes,Never,Moderate,5.8,Low
+P1440,45,40-59,Female,22.9,Normal,5.2,Normal,102,130,79,231,Yes,Never,Moderate,15.7,Low
+P1441,27,18-39,Male,23.3,Normal,5.2,Normal,97,120,66,167,No,Never,Moderate,14.9,Low
+P1442,19,18-39,Male,18.5,Normal,5.2,Normal,85,116,74,177,No,Never,High,17.1,Low
+P1443,46,40-59,Female,26.2,Overweight,5.0,Normal,83,114,73,189,Yes,Former,Moderate,7.4,Low
+P1444,36,18-39,Female,27.8,Overweight,5.7,Prediabetes,104,126,79,213,No,Current,High,23.2,Moderate
+P1445,19,18-39,Female,23.6,Normal,6.1,Prediabetes,94,123,77,188,Yes,Former,Low,30.4,Moderate
+P1446,55,40-59,Female,27.6,Overweight,6.0,Prediabetes,109,120,78,209,No,Former,High,23.1,Moderate
+P1447,28,18-39,Male,31.5,Obese,5.2,Normal,98,144,69,169,Yes,Former,Low,36.5,Moderate
+P1448,49,40-59,Male,28.9,Overweight,5.6,Normal,70,129,76,173,No,Never,High,16.2,Low
+P1449,57,40-59,Male,25.4,Overweight,5.2,Normal,98,120,76,182,No,Never,Moderate,36.4,Moderate
+P1450,81,60+,Female,28.5,Overweight,5.7,Prediabetes,85,119,79,218,No,Former,High,36.0,Moderate
+P1451,67,60+,Female,38.8,Obese,7.4,Diabetes range,169,127,90,161,Yes,Never,Moderate,89.2,High
+P1452,58,40-59,Male,26.8,Overweight,5.0,Normal,84,125,84,188,No,Never,Low,10.7,Low
+P1453,49,40-59,Male,22.9,Normal,5.7,Prediabetes,107,149,93,228,Yes,Never,High,37.4,Moderate
+P1454,51,40-59,Male,31.0,Obese,5.3,Normal,108,127,75,209,Yes,Never,High,28.3,Moderate
+P1455,46,40-59,Female,24.8,Normal,6.0,Prediabetes,100,119,78,180,No,Never,Low,22.9,Moderate
+P1456,41,40-59,Female,35.0,Obese,6.1,Prediabetes,110,126,77,204,Yes,Never,Low,33.3,Moderate
+P1457,43,40-59,Female,27.8,Overweight,5.2,Normal,91,118,71,212,No,Never,Moderate,14.6,Low
+P1458,32,18-39,Male,35.1,Obese,6.0,Prediabetes,124,113,71,227,No,Never,Low,25.3,Moderate
+P1459,30,18-39,Male,27.0,Overweight,5.9,Prediabetes,127,129,91,213,Yes,Current,Low,26.3,Moderate
+P1460,37,18-39,Female,37.7,Obese,6.2,Prediabetes,111,122,73,151,Yes,Former,Low,26.4,Moderate
+P1461,19,18-39,Male,32.4,Obese,6.0,Prediabetes,116,148,85,147,Yes,Never,High,35.5,Moderate
+P1462,44,40-59,Male,22.5,Normal,5.9,Prediabetes,100,125,80,174,Yes,Never,Moderate,32.3,Moderate
+P1463,59,40-59,Male,35.9,Obese,5.6,Normal,107,134,84,181,No,Former,Low,26.5,Moderate
+P1464,70,60+,Female,29.8,Overweight,5.5,Normal,98,128,77,168,No,Former,Low,33.9,Moderate
+P1465,75,60+,Male,25.0,Overweight,5.8,Prediabetes,97,133,77,200,No,Former,Moderate,16.5,Low
+P1466,25,18-39,Female,28.6,Overweight,5.6,Normal,116,140,64,172,Yes,Never,High,33.7,Moderate
+P1467,51,40-59,Female,35.5,Obese,5.5,Normal,107,147,94,238,Yes,Never,Low,39.8,Moderate
+P1468,38,18-39,Female,28.0,Overweight,5.2,Normal,97,104,73,205,Yes,Never,Moderate,8.1,Low
+P1469,45,40-59,Female,25.8,Overweight,5.2,Normal,119,125,72,176,Yes,Never,High,25.8,Moderate
+P1470,25,18-39,Male,30.3,Obese,5.2,Normal,82,109,90,206,No,Never,High,15.8,Low
+P1471,82,60+,Male,22.5,Normal,5.3,Normal,87,122,84,191,No,Never,High,16.3,Low
+P1472,25,18-39,Male,30.2,Obese,5.7,Prediabetes,87,127,82,158,No,Current,Low,35.7,Moderate
+P1473,63,60+,Male,24.3,Normal,5.3,Normal,85,113,70,212,No,Former,Moderate,17.2,Low
+P1474,54,40-59,Female,22.2,Normal,5.9,Prediabetes,73,108,68,220,Yes,Never,Moderate,9.5,Low
+P1475,59,40-59,Male,22.3,Normal,5.5,Normal,84,108,72,194,No,Never,High,15.8,Low
+P1476,54,40-59,Female,26.6,Overweight,5.3,Normal,102,129,78,201,No,Former,Moderate,12.8,Low
+P1477,80,60+,Female,33.2,Obese,6.4,Prediabetes,140,135,78,238,No,Never,Moderate,56.8,High
+P1478,48,40-59,Female,27.1,Overweight,5.0,Normal,94,117,60,221,No,Never,Low,8.8,Low
+P1479,59,40-59,Female,25.7,Overweight,7.0,Diabetes range,175,150,91,175,Yes,Never,Low,77.5,High
+P1480,40,40-59,Male,30.0,Obese,5.8,Prediabetes,104,118,72,251,No,Current,Moderate,21.5,Moderate
+P1481,32,18-39,Male,25.8,Overweight,5.1,Normal,83,112,69,210,No,Never,High,5.2,Low
+P1482,44,40-59,Female,25.2,Overweight,5.5,Normal,100,104,78,163,No,Never,Moderate,8.9,Low
+P1483,32,18-39,Female,26.6,Overweight,6.1,Prediabetes,108,139,92,207,No,Never,Moderate,29.8,Moderate
+P1484,19,18-39,Female,27.4,Overweight,5.5,Normal,83,111,94,184,No,Never,High,10.9,Low
+P1485,18,18-39,Male,30.8,Obese,6.0,Prediabetes,159,149,94,225,No,Former,Low,88.0,High
+P1486,34,18-39,Female,31.1,Obese,6.2,Prediabetes,99,134,88,167,Yes,Current,High,35.7,Moderate
+P1487,38,18-39,Female,31.1,Obese,5.9,Prediabetes,94,138,75,206,Yes,Never,High,39.5,Moderate
+P1488,37,18-39,Female,32.2,Obese,5.9,Prediabetes,163,141,78,154,No,Never,Moderate,48.4,High
+P1489,66,60+,Female,18.5,Normal,5.1,Normal,103,127,78,217,Yes,Never,High,11.0,Low
+P1490,78,60+,Female,21.2,Normal,4.9,Normal,89,117,72,212,No,Former,Moderate,11.6,Low
+P1491,59,40-59,Female,28.5,Overweight,6.0,Prediabetes,122,130,65,236,Yes,Former,High,30.4,Moderate
+P1492,21,18-39,Female,20.8,Normal,5.1,Normal,82,124,58,186,Yes,Never,Low,7.4,Low
+P1493,37,18-39,Male,19.0,Normal,5.1,Normal,95,118,68,166,No,Never,Low,15.8,Low
+P1494,27,18-39,Female,27.0,Overweight,4.8,Normal,84,106,82,210,No,Former,High,9.4,Low
+P1495,67,60+,Female,31.1,Obese,7.1,Diabetes range,105,133,81,228,Yes,Never,Low,90.2,High
+P1496,41,40-59,Female,28.3,Overweight,5.0,Normal,93,114,75,186,No,Former,Moderate,9.3,Low
+P1497,53,40-59,Female,29.0,Overweight,5.8,Prediabetes,91,138,82,162,Yes,Former,Low,24.8,Moderate
+P1498,78,60+,Male,27.8,Overweight,6.1,Prediabetes,112,124,69,214,No,Never,Low,38.2,Moderate
+P1499,49,40-59,Female,27.6,Overweight,5.5,Normal,87,133,81,159,Yes,Current,Moderate,13.1,Low
+P1500,85,60+,Female,23.7,Normal,5.1,Normal,101,110,80,197,No,Never,Moderate,17.0,Low
+P1501,76,60+,Male,35.7,Obese,6.3,Prediabetes,114,128,78,228,No,Never,Low,90.4,High
+P1502,19,18-39,Female,25.4,Overweight,5.5,Normal,110,133,75,164,No,Never,High,31.6,Moderate
+P1503,75,60+,Female,27.0,Overweight,5.9,Prediabetes,106,145,81,230,No,Former,Moderate,8.9,Low
+P1504,58,40-59,Male,32.7,Obese,6.1,Prediabetes,105,126,95,184,No,Current,Low,21.7,Moderate
+P1505,45,40-59,Female,31.0,Obese,6.6,Diabetes range,145,132,84,174,Yes,Never,Moderate,62.3,High
+P1506,79,60+,Male,27.5,Overweight,5.9,Prediabetes,118,146,73,189,Yes,Former,High,35.7,Moderate
+P1507,52,40-59,Female,27.9,Overweight,5.5,Normal,81,128,80,172,No,Never,High,16.3,Low
+P1508,25,18-39,Female,23.0,Normal,4.9,Normal,89,140,72,174,No,Current,Moderate,16.6,Low
+P1509,53,40-59,Female,24.1,Normal,5.3,Normal,86,109,66,218,No,Never,High,4.3,Low
+P1510,68,60+,Male,32.0,Obese,6.1,Prediabetes,104,126,86,202,No,Former,Moderate,26.4,Moderate
+P1511,23,18-39,Female,18.5,Normal,5.3,Normal,80,114,76,198,No,Former,High,14.1,Low
+P1512,48,40-59,Male,24.7,Normal,6.3,Prediabetes,104,138,75,188,Yes,Never,Moderate,34.6,Moderate
+P1513,35,18-39,Female,29.6,Overweight,5.4,Normal,85,116,63,194,No,Never,High,9.8,Low
+P1514,64,60+,Female,37.6,Obese,7.4,Diabetes range,188,128,74,240,Yes,Never,Low,48.7,High
+P1515,72,60+,Male,28.2,Overweight,5.4,Normal,92,111,76,149,No,Former,Moderate,8.2,Low
+P1516,51,40-59,Female,24.0,Normal,5.2,Normal,137,128,78,188,No,Never,Moderate,39.9,Moderate
+P1517,59,40-59,Female,30.1,Obese,5.1,Normal,96,119,64,154,No,Former,High,15.0,Low
+P1518,47,40-59,Male,25.5,Overweight,5.2,Normal,89,126,80,198,No,Never,High,12.3,Low
+P1519,51,40-59,Female,34.8,Obese,5.4,Normal,130,135,87,225,No,Former,Low,32.4,Moderate
+P1520,41,40-59,Female,25.9,Overweight,5.1,Normal,100,128,69,183,No,Never,High,6.0,Low
+P1521,70,60+,Female,34.9,Obese,6.5,Diabetes range,159,125,81,224,No,Former,Low,59.4,High
+P1522,83,60+,Male,26.3,Overweight,5.2,Normal,95,117,76,192,No,Never,Moderate,10.1,Low
+P1523,43,40-59,Female,31.8,Obese,5.5,Normal,128,124,82,202,Yes,Never,Low,22.9,Moderate
+P1524,31,18-39,Male,27.0,Overweight,5.1,Normal,102,116,58,196,No,Never,High,14.4,Low
+P1525,78,60+,Female,34.0,Obese,7.1,Diabetes range,143,147,79,226,No,Never,Moderate,86.9,High
+P1526,28,18-39,Male,25.7,Overweight,5.7,Prediabetes,83,132,74,186,No,Current,Moderate,4.2,Low
+P1527,46,40-59,Male,24.5,Normal,5.8,Prediabetes,101,129,66,202,Yes,Never,High,4.5,Low
+P1528,31,18-39,Male,20.5,Normal,5.9,Prediabetes,95,114,69,213,No,Current,High,10.4,Low
+P1529,52,40-59,Male,22.9,Normal,5.2,Normal,92,101,84,193,Yes,Never,High,8.2,Low
+P1530,25,18-39,Female,23.1,Normal,5.1,Normal,100,98,95,227,Yes,Never,High,5.4,Low
+P1531,71,60+,Male,19.9,Normal,5.7,Prediabetes,90,98,77,158,No,Never,Low,5.9,Low
+P1532,55,40-59,Male,24.6,Normal,5.2,Normal,86,127,82,250,No,Former,High,17.6,Low
+P1533,59,40-59,Female,25.5,Overweight,5.7,Prediabetes,107,135,71,202,No,Never,High,22.5,Moderate
+P1534,49,40-59,Female,30.3,Obese,6.9,Diabetes range,124,170,91,248,Yes,Never,High,53.8,High
+P1535,72,60+,Female,23.9,Normal,5.4,Normal,85,104,68,238,No,Former,Low,16.7,Low
+P1536,47,40-59,Female,28.5,Overweight,5.2,Normal,108,123,84,186,No,Current,Moderate,17.3,Low
+P1537,53,40-59,Male,31.6,Obese,6.2,Prediabetes,106,168,72,200,Yes,Never,Moderate,74.2,High
+P1538,70,60+,Female,33.5,Obese,6.4,Prediabetes,124,151,91,227,Yes,Never,Moderate,54.5,High
+P1539,31,18-39,Male,22.8,Normal,5.4,Normal,86,110,84,202,Yes,Never,Moderate,7.2,Low
+P1540,66,60+,Male,37.6,Obese,7.1,Diabetes range,109,141,88,209,Yes,Never,High,73.4,High
+P1541,48,40-59,Female,34.0,Obese,5.9,Prediabetes,127,109,68,173,No,Never,Moderate,25.1,Moderate
+P1542,46,40-59,Female,22.3,Normal,5.8,Prediabetes,89,113,69,184,Yes,Never,Low,16.2,Low
+P1543,49,40-59,Female,20.6,Normal,5.3,Normal,86,99,65,183,No,Never,High,15.5,Low
+P1544,30,18-39,Male,24.7,Normal,6.3,Prediabetes,109,127,85,175,Yes,Never,Low,36.3,Moderate
+P1545,56,40-59,Male,19.4,Normal,5.5,Normal,90,106,80,206,No,Never,High,17.2,Low
+P1546,58,40-59,Male,30.2,Obese,6.3,Prediabetes,96,133,74,182,Yes,Never,Moderate,23.3,Moderate
+P1547,56,40-59,Female,22.8,Normal,4.8,Normal,75,129,77,205,Yes,Never,Moderate,14.0,Low
+P1548,43,40-59,Female,36.8,Obese,5.9,Prediabetes,111,135,84,186,Yes,Never,High,24.2,Moderate
+P1549,35,18-39,Male,29.7,Overweight,5.0,Normal,91,137,61,201,No,Never,Low,11.4,Low
+P1550,62,60+,Female,20.2,Normal,5.9,Prediabetes,99,130,66,174,No,Never,Moderate,6.6,Low
+P1551,53,40-59,Female,29.3,Overweight,5.8,Prediabetes,129,131,84,166,No,Current,High,20.1,Moderate
+P1552,36,18-39,Female,24.8,Normal,5.0,Normal,100,118,74,140,No,Never,Moderate,16.0,Low
+P1553,47,40-59,Female,22.7,Normal,5.1,Normal,104,110,73,176,No,Never,High,7.8,Low
+P1554,61,60+,Female,34.2,Obese,6.6,Diabetes range,140,128,90,176,Yes,Never,Low,52.2,High
+P1555,56,40-59,Male,34.8,Obese,5.9,Prediabetes,132,170,70,225,Yes,Former,High,74.6,High
+P1556,82,60+,Female,30.5,Obese,6.1,Prediabetes,110,131,86,243,No,Never,Low,36.7,Moderate
+P1557,65,60+,Female,34.0,Obese,6.2,Prediabetes,89,131,88,228,No,Current,Low,34.0,Moderate
+P1558,37,18-39,Male,33.5,Obese,5.5,Normal,96,113,69,184,No,Never,Low,36.6,Moderate
+P1559,59,40-59,Male,25.8,Overweight,7.0,Diabetes range,109,138,94,262,No,Current,Low,54.3,High
+P1560,55,40-59,Female,29.2,Overweight,5.8,Prediabetes,104,120,80,228,No,Never,High,29.5,Moderate
+P1561,44,40-59,Female,22.3,Normal,5.5,Normal,72,102,74,204,No,Former,Moderate,6.7,Low
+P1562,55,40-59,Male,26.5,Overweight,5.5,Normal,88,99,67,188,No,Never,High,8.2,Low
+P1563,31,18-39,Female,25.3,Overweight,5.5,Normal,99,103,75,139,No,Never,High,13.0,Low
+P1564,44,40-59,Male,26.3,Overweight,5.8,Prediabetes,103,121,74,209,No,Never,Moderate,22.5,Moderate
+P1565,21,18-39,Male,20.7,Normal,5.4,Normal,85,115,74,165,No,Never,High,5.9,Low
+P1566,29,18-39,Female,25.6,Overweight,5.1,Normal,82,130,82,162,Yes,Never,Moderate,11.2,Low
+P1567,37,18-39,Female,24.4,Normal,5.7,Prediabetes,114,116,66,209,No,Never,Moderate,23.2,Moderate
+P1568,25,18-39,Male,31.1,Obese,5.9,Prediabetes,100,119,80,226,No,Never,Low,39.4,Moderate
+P1569,60,60+,Female,24.0,Normal,4.8,Normal,91,130,85,226,No,Current,High,5.3,Low
+P1570,43,40-59,Female,30.0,Obese,6.2,Prediabetes,129,174,83,196,No,Never,Low,78.1,High
+P1571,31,18-39,Female,30.7,Obese,6.8,Diabetes range,136,143,72,216,No,Never,Low,82.6,High
+P1572,42,40-59,Female,25.0,Overweight,5.5,Normal,126,131,82,190,No,Current,Moderate,28.7,Moderate
+P1573,81,60+,Female,27.4,Overweight,7.7,Diabetes range,142,139,94,229,No,Former,Low,82.3,High
+P1574,40,40-59,Male,21.9,Normal,5.6,Normal,98,126,64,150,No,Never,Moderate,4.1,Low
+P1575,28,18-39,Female,24.8,Normal,5.5,Normal,104,124,76,255,No,Never,Moderate,12.2,Low
+P1576,62,60+,Female,22.3,Normal,5.8,Prediabetes,106,129,78,212,Yes,Never,Low,27.3,Moderate
+P1577,67,60+,Female,27.4,Overweight,5.3,Normal,79,127,65,197,No,Former,Moderate,14.6,Low
+P1578,33,18-39,Female,25.3,Overweight,5.3,Normal,85,126,87,178,Yes,Never,Moderate,9.7,Low
+P1579,59,40-59,Female,32.1,Obese,6.0,Prediabetes,106,103,86,174,Yes,Never,Moderate,26.9,Moderate
+P1580,47,40-59,Male,23.5,Normal,5.6,Normal,97,145,82,193,Yes,Never,Low,27.4,Moderate
+P1581,68,60+,Female,30.5,Obese,5.4,Normal,117,126,78,175,Yes,Former,Low,31.5,Moderate
+P1582,46,40-59,Female,23.7,Normal,5.3,Normal,118,125,75,190,No,Never,Moderate,28.2,Moderate
+P1583,85,60+,Female,19.8,Normal,5.6,Normal,112,97,66,186,No,Former,High,15.5,Low
+P1584,25,18-39,Male,24.7,Normal,5.4,Normal,92,129,76,186,No,Former,Moderate,7.1,Low
+P1585,31,18-39,Female,24.3,Normal,5.7,Prediabetes,80,116,67,181,No,Never,Low,4.1,Low
+P1586,46,40-59,Male,31.6,Obese,5.2,Normal,116,119,76,220,No,Never,High,34.1,Moderate
+P1587,24,18-39,Female,26.8,Overweight,5.8,Prediabetes,106,121,78,188,No,Former,High,18.0,Low
+P1588,85,60+,Male,21.7,Normal,5.8,Prediabetes,77,135,61,188,Yes,Former,High,10.8,Low
+P1589,61,60+,Male,24.5,Normal,5.2,Normal,78,117,72,163,No,Never,High,8.5,Low
+P1590,20,18-39,Female,26.0,Overweight,5.7,Prediabetes,93,114,81,153,Yes,Never,High,18.0,Low
+P1591,59,40-59,Female,21.3,Normal,4.9,Normal,105,132,81,225,No,Current,High,17.3,Low
+P1592,41,40-59,Female,25.7,Overweight,5.2,Normal,96,125,60,225,No,Never,High,8.5,Low
+P1593,50,40-59,Male,28.2,Overweight,6.0,Prediabetes,153,155,93,184,No,Current,High,76.8,High
+P1594,24,18-39,Female,22.1,Normal,5.4,Normal,88,108,73,188,No,Never,High,5.6,Low
+P1595,58,40-59,Male,19.0,Normal,5.5,Normal,81,137,76,177,Yes,Never,High,14.6,Low
+P1596,57,40-59,Male,29.1,Overweight,5.3,Normal,97,133,85,218,No,Never,Low,21.0,Moderate
+P1597,43,40-59,Female,22.8,Normal,5.2,Normal,103,113,78,212,No,Never,Moderate,8.8,Low
+P1598,59,40-59,Male,25.7,Overweight,5.1,Normal,70,134,62,219,No,Never,High,13.6,Low
+P1599,31,18-39,Female,25.1,Overweight,5.8,Prediabetes,103,119,67,223,No,Former,Low,15.8,Low
+P1600,25,18-39,Female,25.9,Overweight,5.2,Normal,90,116,69,160,Yes,Former,Low,7.4,Low
+P1601,34,18-39,Male,20.8,Normal,5.4,Normal,89,119,62,207,No,Former,Moderate,15.3,Low
+P1602,20,18-39,Male,22.0,Normal,4.8,Normal,101,95,84,192,No,Current,High,6.4,Low
+P1603,37,18-39,Female,28.4,Overweight,5.1,Normal,88,132,95,215,No,Never,High,14.2,Low
+P1604,21,18-39,Female,30.8,Obese,5.3,Normal,95,118,64,242,Yes,Never,High,14.4,Low
+P1605,31,18-39,Male,20.5,Normal,5.2,Normal,92,112,70,163,Yes,Former,Moderate,7.9,Low
+P1606,24,18-39,Female,29.1,Overweight,5.6,Normal,116,113,64,167,No,Never,Low,34.5,Moderate
+P1607,54,40-59,Male,21.4,Normal,5.1,Normal,76,135,71,222,No,Current,High,7.6,Low
+P1608,38,18-39,Male,28.1,Overweight,6.2,Prediabetes,116,142,71,226,No,Current,Low,36.7,Moderate
+P1609,27,18-39,Female,33.2,Obese,6.4,Prediabetes,127,152,67,185,No,Current,Moderate,69.6,High
+P1610,39,18-39,Male,28.9,Overweight,5.4,Normal,121,131,72,173,No,Current,Moderate,32.3,Moderate
+P1611,75,60+,Female,27.2,Overweight,5.3,Normal,99,130,71,168,Yes,Never,Moderate,9.8,Low
+P1612,71,60+,Male,20.4,Normal,5.6,Normal,94,125,76,212,No,Current,Moderate,8.6,Low
+P1613,84,60+,Female,25.0,Overweight,5.4,Normal,86,115,76,201,No,Current,High,7.4,Low
+P1614,44,40-59,Female,31.9,Obese,5.3,Normal,134,132,89,186,No,Never,Low,24.1,Moderate
+P1615,39,18-39,Female,30.6,Obese,6.2,Prediabetes,99,136,75,190,No,Never,High,23.7,Moderate
+P1616,35,18-39,Male,25.7,Overweight,6.3,Prediabetes,150,144,84,209,No,Never,Low,72.9,High
+P1617,39,18-39,Female,24.2,Normal,5.6,Normal,126,126,74,224,No,Never,Moderate,35.4,Moderate
+P1618,21,18-39,Male,27.4,Overweight,6.1,Prediabetes,125,133,85,192,No,Never,Moderate,29.6,Moderate
+P1619,58,40-59,Female,24.9,Normal,5.2,Normal,106,108,79,190,No,Never,Moderate,22.9,Moderate
+P1620,84,60+,Female,26.2,Overweight,5.3,Normal,88,127,69,174,No,Former,High,17.3,Low
+P1621,71,60+,Female,35.0,Obese,6.1,Prediabetes,153,130,86,244,No,Current,Low,85.7,High
+P1622,78,60+,Female,33.9,Obese,6.9,Diabetes range,122,148,88,272,No,Current,Moderate,73.5,High
+P1623,74,60+,Female,24.9,Normal,5.5,Normal,89,95,70,209,Yes,Former,Low,16.3,Low
+P1624,35,18-39,Female,30.3,Obese,5.9,Prediabetes,110,136,81,184,No,Never,High,21.0,Moderate
+P1625,43,40-59,Male,30.7,Obese,5.9,Prediabetes,111,123,95,193,No,Never,High,38.8,Moderate
+P1626,43,40-59,Female,26.9,Overweight,5.5,Normal,89,130,78,211,No,Former,Low,15.9,Low
+P1627,45,40-59,Female,32.7,Obese,6.3,Prediabetes,138,136,74,218,No,Never,Low,87.0,High
+P1628,33,18-39,Female,27.1,Overweight,6.7,Diabetes range,159,133,78,257,Yes,Never,Moderate,74.2,High
+P1629,77,60+,Female,26.8,Overweight,5.8,Prediabetes,107,142,80,188,No,Former,Low,21.7,Moderate
+P1630,36,18-39,Female,26.5,Overweight,6.2,Prediabetes,102,130,73,165,No,Never,High,28.5,Moderate
+P1631,55,40-59,Male,20.2,Normal,5.5,Normal,79,128,68,189,Yes,Never,High,8.8,Low
+P1632,69,60+,Female,25.7,Overweight,5.5,Normal,78,118,72,165,No,Never,Moderate,7.0,Low
+P1633,33,18-39,Male,24.9,Normal,5.4,Normal,102,114,77,170,Yes,Never,High,10.2,Low
+P1634,71,60+,Female,30.5,Obese,5.7,Prediabetes,104,126,77,198,No,Never,Moderate,14.6,Low
+P1635,18,18-39,Female,28.5,Overweight,6.6,Diabetes range,147,142,80,192,Yes,Former,Moderate,77.8,High
+P1636,83,60+,Male,34.6,Obese,5.6,Normal,113,123,82,183,Yes,Never,High,33.2,Moderate
+P1637,24,18-39,Female,20.0,Normal,6.0,Prediabetes,124,135,70,142,Yes,Current,Moderate,25.4,Moderate
+P1638,49,40-59,Female,26.1,Overweight,4.8,Normal,99,114,80,216,Yes,Never,Moderate,13.3,Low
+P1639,71,60+,Female,20.5,Normal,5.0,Normal,81,130,76,218,No,Current,Moderate,13.8,Low
+P1640,30,18-39,Female,23.9,Normal,5.4,Normal,108,132,80,171,No,Never,Moderate,23.9,Moderate
+P1641,52,40-59,Male,23.7,Normal,5.2,Normal,94,116,76,210,No,Never,Moderate,17.7,Low
+P1642,76,60+,Male,24.5,Normal,6.1,Prediabetes,105,136,65,147,No,Never,High,28.3,Moderate
+P1643,85,60+,Female,26.6,Overweight,5.9,Prediabetes,98,119,68,173,No,Never,Moderate,35.5,Moderate
+P1644,45,40-59,Female,23.1,Normal,5.4,Normal,107,119,75,153,No,Former,Moderate,5.7,Low
+P1645,32,18-39,Male,18.5,Normal,5.1,Normal,94,126,74,209,Yes,Never,High,9.7,Low
+P1646,65,60+,Male,24.9,Normal,6.7,Diabetes range,113,149,94,193,No,Former,Low,70.7,High
+P1647,59,40-59,Female,25.4,Overweight,5.9,Prediabetes,113,143,84,173,No,Never,High,24.1,Moderate
+P1648,79,60+,Male,33.2,Obese,7.8,Diabetes range,123,124,93,174,No,Never,High,52.1,High
+P1649,31,18-39,Male,20.7,Normal,5.7,Prediabetes,75,121,71,237,No,Never,High,6.1,Low
+P1650,25,18-39,Female,25.0,Overweight,5.4,Normal,91,106,74,163,No,Never,Moderate,8.5,Low
+P1651,40,40-59,Female,31.8,Obese,7.1,Diabetes range,120,145,89,218,No,Never,Low,56.0,High
+P1652,37,18-39,Female,24.7,Normal,5.3,Normal,78,130,64,233,No,Never,High,10.4,Low
+P1653,39,18-39,Male,32.5,Obese,6.2,Prediabetes,115,127,68,184,No,Never,High,38.4,Moderate
+P1654,46,40-59,Female,23.7,Normal,5.4,Normal,98,126,71,162,No,Never,Low,12.3,Low
+P1655,54,40-59,Female,34.5,Obese,7.0,Diabetes range,119,140,80,219,No,Current,Low,87.5,High
+P1656,40,40-59,Female,30.0,Obese,5.0,Normal,78,120,78,234,Yes,Never,Moderate,16.9,Low
+P1657,35,18-39,Female,33.7,Obese,6.0,Prediabetes,112,106,76,201,No,Former,High,20.1,Moderate
+P1658,35,18-39,Female,27.6,Overweight,5.0,Normal,92,129,71,202,No,Never,High,14.1,Low
+P1659,74,60+,Female,23.9,Normal,5.5,Normal,111,140,86,242,No,Current,High,36.6,Moderate
+P1660,69,60+,Female,24.5,Normal,4.9,Normal,84,116,65,211,No,Former,Moderate,15.4,Low
+P1661,49,40-59,Female,20.3,Normal,5.4,Normal,100,130,78,154,No,Never,High,11.0,Low
+P1662,51,40-59,Male,21.8,Normal,5.0,Normal,90,120,80,182,No,Current,High,10.9,Low
+P1663,26,18-39,Female,25.7,Overweight,4.9,Normal,88,123,82,222,No,Never,Moderate,12.1,Low
+P1664,53,40-59,Male,39.5,Obese,7.5,Diabetes range,155,142,78,207,No,Never,Low,65.7,High
+P1665,34,18-39,Female,28.9,Overweight,5.2,Normal,81,118,87,214,Yes,Current,High,7.7,Low
+P1666,19,18-39,Female,18.5,Normal,4.9,Normal,83,119,82,187,No,Never,Low,11.3,Low
+P1667,44,40-59,Male,19.8,Normal,5.6,Normal,72,114,80,174,No,Former,High,4.9,Low
+P1668,57,40-59,Female,24.7,Normal,5.1,Normal,88,120,83,169,No,Current,Moderate,5.2,Low
+P1669,48,40-59,Female,26.7,Overweight,5.1,Normal,107,117,82,240,No,Never,Low,8.4,Low
+P1670,47,40-59,Female,26.3,Overweight,6.7,Diabetes range,105,148,96,227,No,Never,Low,58.7,High
+P1671,75,60+,Female,27.2,Overweight,5.5,Normal,88,104,76,169,No,Never,Moderate,8.6,Low
+P1672,44,40-59,Female,35.1,Obese,6.3,Prediabetes,144,165,81,207,Yes,Never,High,72.3,High
+P1673,78,60+,Male,26.5,Overweight,5.9,Prediabetes,144,157,86,203,No,Former,High,59.6,High
+P1674,74,60+,Female,25.7,Overweight,6.4,Prediabetes,99,135,79,148,No,Former,High,36.4,Moderate
+P1675,35,18-39,Female,30.6,Obese,5.3,Normal,112,114,76,181,No,Current,Low,4.7,Low
+P1676,49,40-59,Male,22.1,Normal,5.1,Normal,102,105,68,173,No,Never,High,9.6,Low
+P1677,22,18-39,Male,24.4,Normal,4.9,Normal,92,107,68,182,No,Never,Low,6.0,Low
+P1678,35,18-39,Male,23.6,Normal,5.5,Normal,88,106,75,243,Yes,Never,High,10.4,Low
+P1679,33,18-39,Male,26.6,Overweight,6.7,Diabetes range,160,157,105,207,No,Never,Moderate,48.5,High
+P1680,40,40-59,Female,28.9,Overweight,5.5,Normal,123,122,79,191,No,Current,Low,22.6,Moderate
+P1681,50,40-59,Female,33.9,Obese,6.1,Prediabetes,165,144,103,258,No,Never,Low,55.7,High
+P1682,47,40-59,Male,26.3,Overweight,5.2,Normal,90,121,73,190,No,Current,Moderate,17.4,Low
+P1683,33,18-39,Male,29.0,Overweight,5.6,Normal,107,124,83,189,No,Never,Moderate,33.0,Moderate
+P1684,55,40-59,Female,20.6,Normal,5.7,Prediabetes,96,123,86,186,Yes,Never,Moderate,6.2,Low
+P1685,42,40-59,Female,30.3,Obese,5.9,Prediabetes,122,129,83,208,No,Never,Moderate,28.5,Moderate
+P1686,28,18-39,Female,25.6,Overweight,5.5,Normal,83,122,70,193,No,Former,High,11.1,Low
+P1687,53,40-59,Male,33.6,Obese,6.2,Prediabetes,124,128,95,192,Yes,Former,Moderate,78.9,High
+P1688,38,18-39,Male,24.9,Normal,6.2,Prediabetes,101,139,66,211,No,Current,High,25.5,Moderate
+P1689,66,60+,Male,23.6,Normal,5.6,Normal,103,108,83,196,Yes,Current,Moderate,39.2,Moderate
+P1690,53,40-59,Female,36.0,Obese,7.1,Diabetes range,138,141,87,226,Yes,Current,Moderate,77.9,High
+P1691,38,18-39,Male,24.5,Normal,5.4,Normal,94,109,73,156,No,Never,Moderate,17.7,Low
+P1692,65,60+,Male,22.6,Normal,5.3,Normal,91,95,72,153,No,Never,Low,4.9,Low
+P1693,33,18-39,Female,24.0,Normal,7.2,Diabetes range,143,132,103,229,No,Never,Moderate,78.3,High
+P1694,26,18-39,Female,22.4,Normal,4.8,Normal,104,122,59,196,No,Never,Low,11.9,Low
+P1695,51,40-59,Female,21.4,Normal,5.5,Normal,84,122,68,200,No,Never,High,13.5,Low
+P1696,80,60+,Female,29.0,Overweight,5.7,Prediabetes,118,148,81,175,Yes,Never,Low,34.2,Moderate
+P1697,62,60+,Female,35.6,Obese,5.9,Prediabetes,142,137,95,255,Yes,Former,Moderate,53.6,High
+P1698,52,40-59,Female,26.7,Overweight,6.1,Prediabetes,166,138,95,247,Yes,Former,Moderate,72.0,High
+P1699,65,60+,Female,30.3,Obese,5.9,Prediabetes,158,143,104,210,No,Former,Moderate,90.7,High
+P1700,54,40-59,Female,34.8,Obese,6.7,Diabetes range,139,136,88,156,No,Never,Moderate,79.7,High
+P1701,47,40-59,Female,24.8,Normal,5.3,Normal,124,152,66,190,No,Never,High,36.1,Moderate
+P1702,48,40-59,Female,31.1,Obese,6.7,Diabetes range,144,151,82,247,No,Never,Moderate,83.3,High
+P1703,84,60+,Male,41.1,Obese,6.3,Prediabetes,118,136,85,180,Yes,Never,Moderate,63.1,High
+P1704,45,40-59,Male,23.2,Normal,5.5,Normal,81,106,70,166,No,Former,Moderate,12.5,Low
+P1705,21,18-39,Female,26.1,Overweight,4.8,Normal,110,117,84,235,No,Former,High,17.5,Low
+P1706,18,18-39,Male,27.2,Overweight,5.5,Normal,104,133,76,178,No,Never,High,33.1,Moderate
+P1707,25,18-39,Male,24.6,Normal,5.7,Prediabetes,100,115,75,163,No,Never,High,12.0,Low
+P1708,23,18-39,Male,21.2,Normal,5.3,Normal,98,126,78,232,No,Never,Moderate,13.7,Low
+P1709,22,18-39,Male,20.5,Normal,5.9,Prediabetes,87,126,75,161,Yes,Never,Moderate,16.1,Low
+P1710,62,60+,Male,26.4,Overweight,5.8,Prediabetes,90,109,75,164,No,Former,Moderate,9.5,Low
+P1711,32,18-39,Male,21.6,Normal,5.2,Normal,97,130,65,228,No,Never,Low,7.2,Low
+P1712,44,40-59,Male,23.8,Normal,5.2,Normal,129,137,60,202,No,Never,Moderate,35.7,Moderate
+P1713,47,40-59,Female,30.4,Obese,6.3,Prediabetes,118,111,75,188,No,Never,High,39.5,Moderate
+P1714,84,60+,Female,25.8,Overweight,5.2,Normal,107,124,86,235,No,Never,High,35.5,Moderate
+P1715,21,18-39,Male,22.4,Normal,5.3,Normal,88,122,89,177,No,Never,High,15.8,Low
+P1716,20,18-39,Female,21.9,Normal,5.4,Normal,92,122,87,182,No,Current,High,4.6,Low
+P1717,29,18-39,Female,25.2,Overweight,5.1,Normal,102,102,66,130,No,Former,Moderate,8.7,Low
+P1718,25,18-39,Male,26.4,Overweight,5.2,Normal,92,129,84,205,No,Never,High,30.2,Moderate
+P1719,71,60+,Female,26.9,Overweight,6.5,Diabetes range,134,141,88,194,Yes,Current,Low,86.2,High
+P1720,57,40-59,Female,25.7,Overweight,5.7,Prediabetes,105,131,74,192,No,Never,Moderate,14.5,Low
+P1721,21,18-39,Female,24.2,Normal,5.7,Prediabetes,100,117,64,157,No,Current,Moderate,35.8,Moderate
+P1722,58,40-59,Female,29.6,Overweight,5.4,Normal,104,115,77,214,No,Never,Moderate,37.6,Moderate
+P1723,79,60+,Female,34.3,Obese,6.2,Prediabetes,158,122,92,203,No,Former,Moderate,67.2,High
+P1724,38,18-39,Female,22.5,Normal,5.1,Normal,96,104,78,190,No,Never,Moderate,5.1,Low
+P1725,26,18-39,Female,24.6,Normal,5.0,Normal,80,100,78,229,No,Never,Moderate,4.6,Low
+P1726,70,60+,Female,20.0,Normal,5.3,Normal,91,115,81,211,No,Never,Moderate,20.8,Moderate
+P1727,62,60+,Female,23.6,Normal,5.1,Normal,90,108,71,182,No,Never,Low,10.1,Low
+P1728,27,18-39,Female,33.8,Obese,6.4,Prediabetes,140,129,80,219,No,Former,High,20.3,Moderate
+P1729,55,40-59,Female,20.9,Normal,5.2,Normal,97,100,69,201,No,Current,Low,4.5,Low
+P1730,28,18-39,Male,20.9,Normal,5.1,Normal,84,119,73,187,Yes,Never,High,8.7,Low
+P1731,49,40-59,Female,31.4,Obese,5.7,Prediabetes,124,145,100,220,No,Never,Moderate,32.8,Moderate
+P1732,51,40-59,Female,25.0,Overweight,5.8,Prediabetes,105,118,90,211,Yes,Never,High,37.1,Moderate
+P1733,56,40-59,Female,31.7,Obese,6.6,Diabetes range,136,148,77,217,No,Never,Moderate,78.0,High
+P1734,46,40-59,Female,21.4,Normal,5.1,Normal,102,123,71,227,No,Never,Low,14.1,Low
+P1735,83,60+,Male,29.4,Overweight,5.1,Normal,90,107,69,131,No,Never,High,12.0,Low
+P1736,35,18-39,Female,29.7,Overweight,6.4,Prediabetes,172,131,89,221,No,Former,High,44.0,High
+P1737,19,18-39,Female,28.1,Overweight,5.8,Prediabetes,98,147,83,234,No,Never,Low,24.0,Moderate
+P1738,24,18-39,Female,24.0,Normal,5.7,Prediabetes,91,123,74,174,Yes,Never,Moderate,15.6,Low
+P1739,78,60+,Female,25.8,Overweight,5.2,Normal,108,108,75,178,No,Never,Moderate,4.1,Low
+P1740,51,40-59,Male,30.0,Obese,5.2,Normal,112,153,93,203,Yes,Former,High,29.6,Moderate
+P1741,56,40-59,Female,25.7,Overweight,5.1,Normal,94,108,79,190,No,Never,High,6.3,Low
+P1742,57,40-59,Female,30.8,Obese,6.1,Prediabetes,130,138,85,197,Yes,Never,Moderate,59.5,High
+P1743,33,18-39,Female,26.8,Overweight,5.4,Normal,95,119,76,163,No,Never,Moderate,4.2,Low
+P1744,30,18-39,Female,23.4,Normal,5.3,Normal,96,118,78,160,No,Never,Moderate,11.7,Low
+P1745,27,18-39,Female,32.2,Obese,5.8,Prediabetes,95,135,75,205,No,Never,Low,24.6,Moderate
+P1746,28,18-39,Male,25.0,Overweight,6.0,Prediabetes,108,118,72,213,No,Former,High,23.7,Moderate
+P1747,52,40-59,Male,26.6,Overweight,5.6,Normal,100,126,76,261,Yes,Never,Low,11.2,Low
+P1748,49,40-59,Female,24.7,Normal,4.9,Normal,100,122,73,210,Yes,Former,Moderate,14.3,Low
+P1749,35,18-39,Female,22.9,Normal,5.0,Normal,92,112,68,183,No,Never,Moderate,6.7,Low
+P1750,42,40-59,Male,28.3,Overweight,7.3,Diabetes range,105,139,83,199,No,Never,Low,60.1,High
+P1751,51,40-59,Female,27.9,Overweight,6.6,Diabetes range,105,161,75,170,Yes,Never,High,71.3,High
+P1752,85,60+,Female,29.5,Overweight,6.1,Prediabetes,152,148,86,249,Yes,Former,Low,84.9,High
+P1753,49,40-59,Female,23.4,Normal,5.1,Normal,92,129,66,180,No,Never,Moderate,17.8,Low
+P1754,83,60+,Male,26.2,Overweight,5.4,Normal,95,121,66,179,No,Never,High,35.4,Moderate
+P1755,53,40-59,Male,22.1,Normal,5.5,Normal,75,118,66,201,No,Never,Moderate,4.8,Low
+P1756,30,18-39,Female,31.1,Obese,5.9,Prediabetes,118,141,84,179,Yes,Never,High,35.3,Moderate
+P1757,26,18-39,Male,34.0,Obese,6.3,Prediabetes,116,126,69,176,Yes,Never,Moderate,20.4,Moderate
+P1758,39,18-39,Female,23.7,Normal,4.8,Normal,96,122,70,192,Yes,Never,High,4.8,Low
+P1759,38,18-39,Female,23.9,Normal,5.4,Normal,100,118,70,212,Yes,Never,Moderate,14.4,Low
+P1760,62,60+,Female,25.2,Overweight,5.2,Normal,97,111,78,184,Yes,Never,High,4.1,Low
+P1761,78,60+,Female,25.5,Overweight,5.7,Prediabetes,124,117,96,211,No,Former,Low,25.9,Moderate
+P1762,42,40-59,Male,36.6,Obese,7.0,Diabetes range,181,140,81,212,No,Never,High,90.5,High
+P1763,37,18-39,Female,25.1,Overweight,5.5,Normal,89,113,75,205,Yes,Never,Moderate,17.3,Low
+P1764,63,60+,Female,32.6,Obese,6.2,Prediabetes,109,133,78,258,No,Former,High,28.8,Moderate
+P1765,60,60+,Female,25.2,Overweight,6.1,Prediabetes,130,118,88,224,No,Never,Moderate,28.1,Moderate
+P1766,47,40-59,Male,22.5,Normal,5.7,Prediabetes,96,130,76,148,Yes,Former,High,9.0,Low
+P1767,53,40-59,Female,23.2,Normal,4.8,Normal,96,123,67,219,Yes,Never,High,11.8,Low
+P1768,40,40-59,Female,29.2,Overweight,6.2,Prediabetes,163,150,84,218,No,Former,High,53.9,High
+P1769,42,40-59,Male,22.5,Normal,5.3,Normal,98,110,76,206,No,Never,High,4.8,Low
+P1770,79,60+,Female,31.1,Obese,5.0,Normal,102,112,68,215,Yes,Never,Low,18.0,Low
+P1771,66,60+,Female,22.8,Normal,5.3,Normal,102,118,78,208,No,Never,High,11.8,Low
+P1772,44,40-59,Female,30.5,Obese,6.0,Prediabetes,104,135,76,130,Yes,Never,Moderate,37.3,Moderate
+P1773,28,18-39,Male,32.0,Obese,6.2,Prediabetes,138,147,80,198,Yes,Current,Low,49.9,High
+P1774,56,40-59,Male,24.0,Normal,6.5,Diabetes range,159,143,67,249,Yes,Former,Low,66.0,High
+P1775,80,60+,Female,37.4,Obese,6.2,Prediabetes,143,137,88,247,No,Former,Moderate,85.3,High
+P1776,29,18-39,Female,24.1,Normal,5.1,Normal,95,119,70,260,No,Current,Moderate,8.2,Low
+P1777,32,18-39,Male,25.9,Overweight,5.0,Normal,108,117,75,246,No,Never,Low,8.9,Low
+P1778,83,60+,Male,21.3,Normal,5.3,Normal,81,118,76,177,No,Never,High,14.5,Low
+P1779,42,40-59,Female,25.9,Overweight,5.2,Normal,80,125,65,195,No,Former,High,16.7,Low
+P1780,58,40-59,Female,26.0,Overweight,5.4,Normal,98,121,69,186,No,Current,Low,11.9,Low
+P1781,23,18-39,Male,30.2,Obese,6.3,Prediabetes,111,120,90,203,No,Former,Moderate,28.8,Moderate
+P1782,18,18-39,Male,22.1,Normal,5.4,Normal,86,130,69,185,No,Never,Low,9.4,Low
+P1783,82,60+,Female,20.0,Normal,5.9,Prediabetes,115,106,87,214,Yes,Never,Moderate,38.5,Moderate
+P1784,82,60+,Male,24.2,Normal,5.6,Normal,109,104,71,219,No,Former,Moderate,15.2,Low
+P1785,56,40-59,Female,31.3,Obese,5.3,Normal,119,118,88,140,No,Current,Low,20.2,Moderate
+P1786,53,40-59,Female,29.3,Overweight,5.6,Normal,98,122,66,167,Yes,Never,Moderate,22.0,Moderate
+P1787,61,60+,Male,21.1,Normal,5.3,Normal,97,116,66,182,Yes,Never,Moderate,12.7,Low
+P1788,39,18-39,Female,24.9,Normal,5.2,Normal,104,104,76,246,No,Never,High,7.7,Low
+P1789,47,40-59,Male,39.3,Obese,7.0,Diabetes range,129,131,76,211,Yes,Current,Moderate,77.8,High
+P1790,21,18-39,Female,25.4,Overweight,5.0,Normal,100,122,83,194,No,Never,High,12.8,Low
+P1791,80,60+,Female,27.9,Overweight,5.4,Normal,82,128,65,210,No,Never,High,8.1,Low
+P1792,23,18-39,Male,31.3,Obese,6.4,Prediabetes,170,155,87,191,No,Never,Low,80.0,High
+P1793,34,18-39,Female,21.3,Normal,5.2,Normal,95,127,74,156,No,Current,Moderate,13.2,Low
+P1794,43,40-59,Female,33.5,Obese,6.8,Diabetes range,127,165,87,135,No,Former,Low,62.1,High
+P1795,33,18-39,Female,29.6,Overweight,7.4,Diabetes range,189,162,65,206,Yes,Former,Moderate,58.0,High
+P1796,69,60+,Female,26.4,Overweight,5.4,Normal,98,118,75,210,No,Former,High,16.1,Low
+P1797,39,18-39,Female,31.5,Obese,6.1,Prediabetes,104,127,93,174,No,Former,Low,39.1,Moderate
+P1798,60,60+,Male,29.6,Overweight,6.3,Prediabetes,187,152,95,185,No,Never,Low,64.3,High
+P1799,58,40-59,Male,29.8,Overweight,4.9,Normal,96,136,70,196,No,Never,Moderate,4.7,Low
+P1800,78,60+,Female,23.8,Normal,5.2,Normal,98,124,71,222,No,Never,High,32.6,Moderate
+P1801,37,18-39,Male,19.7,Normal,4.8,Normal,86,115,82,205,No,Never,High,7.7,Low
+P1802,44,40-59,Female,30.9,Obese,5.7,Prediabetes,110,125,92,250,No,Former,Moderate,39.4,Moderate
+P1803,67,60+,Male,38.1,Obese,6.6,Diabetes range,124,145,82,245,No,Never,Low,86.1,High
+P1804,48,40-59,Female,24.6,Normal,5.5,Normal,88,105,72,157,Yes,Never,Low,10.3,Low
+P1805,50,40-59,Male,24.8,Normal,6.9,Diabetes range,148,154,78,221,No,Never,High,86.5,High
+P1806,42,40-59,Male,29.9,Overweight,6.6,Diabetes range,137,152,72,232,No,Former,Low,86.3,High
+P1807,83,60+,Male,34.2,Obese,6.2,Prediabetes,165,136,85,236,No,Never,Low,53.6,High
+P1808,31,18-39,Male,22.0,Normal,5.5,Normal,80,135,73,225,Yes,Former,Moderate,10.9,Low
+P1809,75,60+,Female,21.9,Normal,5.4,Normal,95,122,75,130,Yes,Never,Moderate,5.5,Low
+P1810,50,40-59,Female,21.0,Normal,5.1,Normal,109,97,76,222,No,Never,High,12.8,Low
+P1811,49,40-59,Male,28.4,Overweight,5.5,Normal,103,129,89,188,Yes,Current,Moderate,28.5,Moderate
+P1812,75,60+,Male,23.6,Normal,5.2,Normal,78,101,81,168,No,Never,Moderate,11.5,Low
+P1813,40,40-59,Male,23.2,Normal,5.2,Normal,106,119,63,165,No,Never,Moderate,11.2,Low
+P1814,58,40-59,Male,25.1,Overweight,5.5,Normal,95,117,76,180,No,Former,Low,12.8,Low
+P1815,36,18-39,Female,25.9,Overweight,5.3,Normal,104,129,77,140,No,Never,High,12.2,Low
+P1816,22,18-39,Female,27.4,Overweight,5.2,Normal,87,104,82,151,No,Former,High,10.6,Low
+P1817,49,40-59,Female,28.7,Overweight,6.2,Prediabetes,100,122,72,171,No,Former,Low,30.7,Moderate
+P1818,49,40-59,Male,23.9,Normal,5.8,Prediabetes,102,132,85,233,No,Never,High,34.9,Moderate
+P1819,42,40-59,Male,38.5,Obese,6.3,Prediabetes,142,149,91,214,No,Never,High,84.9,High
+P1820,38,18-39,Female,25.3,Overweight,5.6,Normal,93,127,67,203,Yes,Never,Low,14.1,Low
+P1821,47,40-59,Female,28.6,Overweight,5.1,Normal,78,102,79,192,No,Never,High,17.3,Low
+P1822,21,18-39,Female,18.9,Normal,4.8,Normal,86,130,68,163,No,Never,Low,10.6,Low
+P1823,27,18-39,Male,23.7,Normal,4.9,Normal,94,100,91,228,No,Never,High,18.0,Low
+P1824,34,18-39,Female,34.0,Obese,5.5,Normal,99,116,81,204,No,Never,High,28.6,Moderate
+P1825,72,60+,Female,37.2,Obese,6.4,Prediabetes,158,175,95,192,Yes,Never,Moderate,65.5,High
+P1826,55,40-59,Female,26.5,Overweight,5.5,Normal,98,136,71,238,No,Former,Moderate,24.2,Moderate
+P1827,46,40-59,Female,29.5,Overweight,6.2,Prediabetes,175,142,78,196,Yes,Current,Low,81.8,High
+P1828,46,40-59,Female,32.7,Obese,7.5,Diabetes range,161,144,77,239,No,Current,Low,74.9,High
+P1829,26,18-39,Male,30.1,Obese,6.3,Prediabetes,120,129,87,215,No,Former,Low,34.0,Moderate
+P1830,26,18-39,Female,36.2,Obese,6.1,Prediabetes,184,143,86,252,Yes,Never,Low,65.1,High
+P1831,59,40-59,Male,23.5,Normal,5.3,Normal,101,113,68,225,No,Never,Moderate,5.0,Low
+P1832,48,40-59,Female,27.7,Overweight,5.7,Prediabetes,119,143,78,216,Yes,Never,High,30.8,Moderate
+P1833,50,40-59,Female,24.6,Normal,6.1,Prediabetes,102,127,77,233,No,Never,High,31.2,Moderate
+P1834,22,18-39,Male,23.2,Normal,5.8,Prediabetes,83,124,66,200,Yes,Current,Moderate,17.1,Low
+P1835,24,18-39,Female,20.9,Normal,5.1,Normal,88,114,80,192,No,Never,High,15.3,Low
+P1836,40,40-59,Female,35.2,Obese,6.3,Prediabetes,113,132,79,213,Yes,Never,Moderate,37.3,Moderate
+P1837,74,60+,Female,33.5,Obese,6.0,Prediabetes,111,128,83,216,Yes,Former,Low,33.0,Moderate
+P1838,58,40-59,Male,29.2,Overweight,5.7,Prediabetes,127,131,80,236,No,Former,High,31.7,Moderate
+P1839,27,18-39,Female,26.0,Overweight,5.7,Prediabetes,86,110,68,206,No,Never,High,13.4,Low
+P1840,72,60+,Female,29.9,Overweight,5.4,Normal,96,132,61,217,No,Former,High,14.5,Low
+P1841,85,60+,Female,23.5,Normal,5.5,Normal,91,101,64,198,No,Former,High,6.1,Low
+P1842,25,18-39,Female,26.0,Overweight,5.6,Normal,96,115,76,152,Yes,Never,Low,4.4,Low
+P1843,27,18-39,Female,28.5,Overweight,5.6,Normal,80,107,75,229,No,Never,High,17.9,Low
+P1844,51,40-59,Male,31.3,Obese,6.3,Prediabetes,107,140,78,252,No,Current,Moderate,21.8,Moderate
+P1845,44,40-59,Male,34.1,Obese,7.1,Diabetes range,121,157,79,225,Yes,Never,High,52.1,High
+P1846,18,18-39,Female,23.8,Normal,5.2,Normal,106,124,81,206,Yes,Never,Low,34.6,Moderate
+P1847,22,18-39,Female,22.2,Normal,5.4,Normal,96,128,97,187,No,Current,Moderate,27.7,Moderate
+P1848,41,40-59,Male,24.9,Normal,5.6,Normal,91,100,64,249,No,Former,Moderate,13.5,Low
+P1849,28,18-39,Female,25.8,Overweight,6.3,Prediabetes,118,142,100,194,No,Never,Low,31.3,Moderate
+P1850,30,18-39,Male,28.5,Overweight,5.9,Prediabetes,104,114,70,186,No,Former,Low,34.5,Moderate
+P1851,74,60+,Female,34.9,Obese,5.5,Normal,110,136,91,160,No,Never,Low,31.4,Moderate
+P1852,40,40-59,Male,29.5,Overweight,5.4,Normal,121,128,93,249,Yes,Never,Low,20.4,Moderate
+P1853,45,40-59,Female,32.1,Obese,6.4,Prediabetes,151,134,79,167,Yes,Never,Moderate,79.6,High
+P1854,72,60+,Female,20.9,Normal,5.1,Normal,91,141,69,155,No,Never,Low,6.2,Low
+P1855,36,18-39,Male,29.9,Overweight,6.3,Prediabetes,158,150,82,242,No,Never,Moderate,48.6,High
+P1856,44,40-59,Female,21.1,Normal,5.0,Normal,86,108,72,222,No,Former,Moderate,4.8,Low
+P1857,32,18-39,Female,27.3,Overweight,6.3,Prediabetes,112,133,82,171,No,Never,Moderate,27.6,Moderate
+P1858,56,40-59,Male,21.6,Normal,5.3,Normal,96,116,77,211,Yes,Never,High,9.2,Low
+P1859,41,40-59,Male,22.7,Normal,5.6,Normal,84,122,68,195,Yes,Former,Moderate,11.2,Low
+P1860,55,40-59,Female,26.0,Overweight,5.6,Normal,107,129,83,184,Yes,Never,Moderate,27.1,Moderate
+P1861,67,60+,Male,27.4,Overweight,5.3,Normal,88,145,68,161,No,Former,Low,7.7,Low
+P1862,48,40-59,Male,25.3,Overweight,5.1,Normal,83,112,72,176,No,Former,High,7.8,Low
+P1863,42,40-59,Female,25.0,Overweight,5.0,Normal,101,131,80,183,No,Former,Low,12.9,Low
+P1864,45,40-59,Female,24.9,Normal,5.5,Normal,111,130,79,209,Yes,Never,Low,25.5,Moderate
+P1865,78,60+,Male,21.9,Normal,5.9,Prediabetes,88,122,70,226,No,Current,High,16.5,Low
+P1866,52,40-59,Male,29.4,Overweight,6.0,Prediabetes,132,144,73,236,Yes,Never,Moderate,43.7,High
+P1867,55,40-59,Male,33.9,Obese,5.8,Prediabetes,87,143,97,164,No,Current,High,25.3,Moderate
+P1868,63,60+,Female,23.0,Normal,5.3,Normal,95,112,68,230,No,Never,Moderate,13.9,Low
+P1869,50,40-59,Female,27.2,Overweight,5.4,Normal,107,131,84,221,No,Current,High,29.7,Moderate
+P1870,70,60+,Female,20.5,Normal,4.8,Normal,72,128,79,198,No,Former,Moderate,16.5,Low
+P1871,44,40-59,Male,27.3,Overweight,5.5,Normal,103,113,79,190,No,Current,Moderate,7.3,Low
+P1872,66,60+,Male,21.6,Normal,5.3,Normal,84,122,76,209,Yes,Current,High,16.0,Low
+P1873,22,18-39,Female,26.7,Overweight,6.4,Prediabetes,130,132,92,229,No,Former,Moderate,33.8,Moderate
+P1874,30,18-39,Female,27.9,Overweight,7.1,Diabetes range,162,131,82,187,Yes,Former,Moderate,47.2,High
+P1875,51,40-59,Male,30.4,Obese,5.7,Prediabetes,126,128,76,216,Yes,Never,High,24.9,Moderate
+P1876,51,40-59,Female,24.6,Normal,5.2,Normal,96,127,70,239,No,Former,Moderate,13.0,Low
+P1877,23,18-39,Male,27.9,Overweight,5.3,Normal,112,117,78,179,No,Never,Moderate,10.4,Low
+P1878,52,40-59,Female,29.1,Overweight,5.8,Prediabetes,116,139,80,175,No,Never,Low,22.2,Moderate
+P1879,38,18-39,Female,24.9,Normal,5.4,Normal,110,122,82,274,No,Former,Low,21.2,Moderate
+P1880,50,40-59,Male,26.4,Overweight,6.3,Prediabetes,190,143,93,225,No,Former,Low,57.9,High
+P1881,20,18-39,Female,22.2,Normal,5.5,Normal,90,129,83,160,No,Never,Low,9.4,Low
+P1882,69,60+,Male,39.1,Obese,6.3,Prediabetes,122,145,88,188,No,Former,Moderate,70.7,High
+P1883,28,18-39,Female,20.9,Normal,4.8,Normal,86,119,81,228,No,Never,Low,15.6,Low
+P1884,53,40-59,Female,31.4,Obese,7.3,Diabetes range,136,143,83,229,No,Never,Moderate,62.4,High
+P1885,73,60+,Male,26.8,Overweight,5.5,Normal,113,143,81,220,No,Former,Moderate,33.2,Moderate
+P1886,41,40-59,Female,25.3,Overweight,5.0,Normal,106,132,72,158,No,Never,Low,6.5,Low
+P1887,38,18-39,Female,26.9,Overweight,6.0,Prediabetes,91,109,79,203,No,Never,Moderate,22.3,Moderate
+P1888,53,40-59,Female,25.3,Overweight,4.8,Normal,96,119,76,163,Yes,Never,Moderate,5.1,Low
+P1889,33,18-39,Female,27.4,Overweight,5.5,Normal,92,108,76,202,No,Never,High,5.3,Low
+P1890,27,18-39,Female,30.1,Obese,5.5,Normal,112,117,96,211,Yes,Never,High,38.2,Moderate
+P1891,84,60+,Male,23.4,Normal,5.6,Normal,81,120,60,213,No,Never,Low,9.2,Low
+P1892,78,60+,Male,23.7,Normal,5.1,Normal,101,126,77,186,No,Never,Moderate,10.7,Low
+P1893,48,40-59,Female,34.0,Obese,5.3,Normal,92,102,75,193,No,Current,High,13.9,Low
+P1894,82,60+,Male,19.6,Normal,5.2,Normal,89,114,68,199,No,Never,High,4.3,Low
+P1895,54,40-59,Male,20.2,Normal,5.2,Normal,93,107,65,179,No,Never,High,17.1,Low
+P1896,82,60+,Male,24.5,Normal,5.2,Normal,75,106,67,227,No,Former,Moderate,4.2,Low
+P1897,59,40-59,Female,33.0,Obese,6.3,Prediabetes,166,136,89,197,No,Never,High,83.6,High
+P1898,28,18-39,Female,29.6,Overweight,5.6,Normal,79,107,73,161,No,Former,High,5.3,Low
+P1899,53,40-59,Male,29.5,Overweight,5.7,Prediabetes,114,147,72,236,No,Never,High,24.0,Moderate
+P1900,41,40-59,Male,26.8,Overweight,5.3,Normal,94,132,75,240,No,Never,Low,7.1,Low
+P1901,77,60+,Female,23.9,Normal,5.6,Normal,105,95,74,215,No,Never,High,13.3,Low
+P1902,68,60+,Female,22.9,Normal,5.0,Normal,103,103,69,202,No,Never,High,4.0,Low
+P1903,43,40-59,Male,20.8,Normal,6.2,Prediabetes,106,128,69,170,Yes,Former,Moderate,21.4,Moderate
+P1904,41,40-59,Male,29.5,Overweight,4.8,Normal,97,114,81,210,No,Former,High,16.2,Low
+P1905,54,40-59,Male,28.3,Overweight,5.4,Normal,109,111,78,150,No,Never,Low,32.6,Moderate
+P1906,47,40-59,Female,22.4,Normal,5.5,Normal,91,118,76,187,Yes,Current,Low,12.5,Low
+P1907,59,40-59,Male,25.1,Overweight,5.4,Normal,100,128,64,192,No,Never,Moderate,6.6,Low
+P1908,52,40-59,Male,21.3,Normal,5.6,Normal,95,106,70,183,No,Never,High,8.5,Low
+P1909,60,60+,Female,31.2,Obese,5.0,Normal,70,127,69,184,No,Current,High,6.6,Low
+P1910,57,40-59,Female,32.9,Obese,5.4,Normal,98,134,82,246,No,Former,Moderate,25.5,Moderate
+P1911,19,18-39,Female,25.0,Overweight,5.3,Normal,90,123,71,168,No,Current,High,17.3,Low
+P1912,58,40-59,Male,25.2,Overweight,5.0,Normal,90,105,75,162,No,Never,High,16.6,Low
+P1913,66,60+,Female,28.1,Overweight,6.0,Prediabetes,110,128,85,217,Yes,Never,Moderate,32.3,Moderate
+P1914,36,18-39,Female,22.2,Normal,5.0,Normal,82,99,68,200,No,Current,Moderate,7.3,Low
+P1915,65,60+,Female,29.1,Overweight,6.2,Prediabetes,160,148,81,240,Yes,Former,High,88.3,High
+P1916,53,40-59,Female,23.1,Normal,5.3,Normal,88,125,78,193,No,Never,Moderate,7.4,Low
+P1917,47,40-59,Female,27.4,Overweight,6.3,Prediabetes,101,155,80,172,No,Never,Moderate,38.2,Moderate
+P1918,85,60+,Female,28.5,Overweight,5.4,Normal,99,108,70,148,No,Never,Moderate,17.9,Low
+P1919,84,60+,Female,29.6,Overweight,6.4,Prediabetes,118,150,83,211,No,Never,Moderate,46.6,High
+P1920,65,60+,Female,22.0,Normal,4.8,Normal,93,129,69,136,Yes,Never,Moderate,8.8,Low
+P1921,44,40-59,Female,26.2,Overweight,7.0,Diabetes range,150,120,105,246,Yes,Current,High,73.9,High
+P1922,41,40-59,Male,22.4,Normal,4.8,Normal,82,113,82,183,No,Never,Low,7.7,Low
+P1923,49,40-59,Female,26.7,Overweight,4.8,Normal,102,111,69,188,No,Never,High,6.2,Low
+P1924,45,40-59,Female,18.6,Normal,5.3,Normal,86,131,62,149,No,Never,Moderate,4.6,Low
+P1925,57,40-59,Female,36.4,Obese,5.9,Prediabetes,119,143,82,184,No,Never,High,20.8,Moderate
+P1926,35,18-39,Female,28.8,Overweight,5.5,Normal,88,126,80,158,No,Never,High,9.1,Low
+P1927,39,18-39,Female,28.3,Overweight,5.7,Prediabetes,115,131,79,206,No,Never,Moderate,20.5,Moderate
+P1928,27,18-39,Female,25.1,Overweight,5.6,Normal,100,129,75,203,No,Never,Moderate,24.3,Moderate
+P1929,62,60+,Male,24.9,Normal,5.6,Normal,102,118,81,243,No,Current,High,7.6,Low
+P1930,38,18-39,Female,25.3,Overweight,5.4,Normal,110,129,78,192,No,Never,Moderate,11.5,Low
+P1931,55,40-59,Male,27.6,Overweight,5.9,Prediabetes,131,161,84,236,Yes,Current,Low,63.3,High
+P1932,30,18-39,Female,21.9,Normal,4.8,Normal,104,102,75,176,No,Never,Moderate,6.1,Low
+P1933,44,40-59,Female,27.3,Overweight,6.1,Prediabetes,97,144,77,173,Yes,Never,High,34.0,Moderate
+P1934,22,18-39,Male,22.2,Normal,5.7,Prediabetes,114,135,67,186,No,Never,Moderate,20.2,Moderate
+P1935,45,40-59,Female,27.4,Overweight,5.2,Normal,87,118,68,201,Yes,Former,Moderate,8.2,Low
+P1936,29,18-39,Female,20.4,Normal,5.0,Normal,93,111,75,268,No,Never,High,17.6,Low
+P1937,44,40-59,Female,32.7,Obese,5.9,Prediabetes,123,154,73,231,No,Current,Low,27.1,Moderate
+P1938,34,18-39,Female,21.1,Normal,5.2,Normal,100,119,80,214,No,Current,High,10.9,Low
+P1939,22,18-39,Female,26.5,Overweight,5.2,Normal,102,144,87,161,No,Never,High,28.3,Moderate
+P1940,22,18-39,Female,25.2,Overweight,5.9,Prediabetes,82,112,76,144,No,Current,Moderate,17.9,Low
+P1941,46,40-59,Male,25.0,Overweight,5.2,Normal,105,119,70,130,No,Never,Moderate,12.0,Low
+P1942,32,18-39,Female,25.6,Overweight,5.8,Prediabetes,92,141,81,238,No,Never,Low,37.2,Moderate
+P1943,53,40-59,Female,23.2,Normal,5.4,Normal,105,133,71,213,Yes,Current,High,33.3,Moderate
+P1944,79,60+,Female,34.7,Obese,6.1,Prediabetes,132,148,95,168,Yes,Former,Moderate,89.5,High
+P1945,65,60+,Male,25.4,Overweight,5.2,Normal,76,135,69,194,No,Never,Moderate,10.5,Low
+P1946,61,60+,Male,29.5,Overweight,6.1,Prediabetes,118,117,69,162,Yes,Never,Low,21.1,Moderate
+P1947,24,18-39,Male,32.7,Obese,5.1,Normal,88,133,65,197,No,Never,High,8.4,Low
+P1948,80,60+,Male,22.9,Normal,5.1,Normal,85,111,74,153,No,Never,High,17.1,Low
+P1949,67,60+,Male,27.5,Overweight,5.8,Prediabetes,130,144,64,130,No,Never,High,30.7,Moderate
+P1950,49,40-59,Female,30.9,Obese,5.8,Prediabetes,122,120,78,140,No,Never,Moderate,25.8,Moderate
+P1951,81,60+,Male,21.5,Normal,5.3,Normal,92,129,78,150,No,Current,High,17.7,Low
+P1952,45,40-59,Female,26.0,Overweight,5.7,Prediabetes,89,110,77,246,No,Never,High,27.0,Moderate
+P1953,31,18-39,Male,33.4,Obese,6.0,Prediabetes,89,125,81,185,Yes,Former,Moderate,35.9,Moderate
+P1954,53,40-59,Female,27.2,Overweight,5.5,Normal,92,121,84,214,No,Never,High,12.6,Low
+P1955,38,18-39,Male,24.2,Normal,5.2,Normal,80,113,72,208,No,Current,High,5.8,Low
+P1956,58,40-59,Female,22.1,Normal,5.3,Normal,86,130,77,171,Yes,Never,Low,14.0,Low
+P1957,49,40-59,Female,23.6,Normal,5.1,Normal,98,106,79,198,No,Never,High,6.4,Low
+P1958,38,18-39,Male,27.8,Overweight,6.3,Prediabetes,109,130,88,206,Yes,Never,Moderate,32.4,Moderate
+P1959,38,18-39,Male,32.2,Obese,5.2,Normal,107,127,88,182,No,Never,Moderate,23.0,Moderate
+P1960,75,60+,Male,31.7,Obese,4.8,Normal,89,113,63,211,Yes,Never,High,13.7,Low
+P1961,32,18-39,Female,23.9,Normal,5.3,Normal,95,113,77,244,No,Former,Moderate,12.5,Low
+P1962,77,60+,Female,20.5,Normal,5.9,Prediabetes,97,117,69,228,No,Never,High,16.5,Low
+P1963,85,60+,Female,30.4,Obese,5.6,Normal,85,124,90,172,Yes,Never,Moderate,38.6,Moderate
+P1964,30,18-39,Female,32.8,Obese,6.0,Prediabetes,120,131,87,212,No,Never,Low,22.6,Moderate
+P1965,62,60+,Male,23.6,Normal,5.7,Prediabetes,77,119,63,181,No,Former,Moderate,5.9,Low
+P1966,74,60+,Female,30.7,Obese,5.1,Normal,93,113,89,169,Yes,Current,Moderate,12.7,Low
+P1967,77,60+,Female,24.4,Normal,5.1,Normal,82,114,76,211,No,Current,Moderate,16.8,Low
+P1968,43,40-59,Female,27.6,Overweight,5.8,Prediabetes,98,115,63,216,Yes,Never,High,27.8,Moderate
+P1969,44,40-59,Female,26.5,Overweight,5.6,Normal,103,119,76,131,No,Former,Low,17.4,Low
+P1970,28,18-39,Female,18.5,Normal,5.0,Normal,95,99,85,140,No,Never,Low,4.3,Low
+P1971,20,18-39,Male,30.5,Obese,5.5,Normal,93,111,75,215,Yes,Current,High,4.4,Low
+P1972,23,18-39,Female,26.8,Overweight,5.5,Normal,89,128,73,178,No,Never,Moderate,8.1,Low
+P1973,43,40-59,Female,25.2,Overweight,5.1,Normal,95,108,82,130,No,Never,High,11.0,Low
+P1974,48,40-59,Female,31.1,Obese,6.0,Prediabetes,97,129,91,212,No,Former,Moderate,26.7,Moderate
+P1975,71,60+,Male,31.7,Obese,6.3,Prediabetes,124,126,76,179,No,Former,Low,31.1,Moderate
+P1976,82,60+,Male,42.7,Obese,6.2,Prediabetes,126,141,97,222,No,Never,Moderate,49.7,High
+P1977,40,40-59,Female,30.0,Obese,6.1,Prediabetes,166,124,89,238,No,Never,Low,85.5,High
+P1978,30,18-39,Female,23.3,Normal,5.6,Normal,101,122,67,210,Yes,Former,Moderate,5.9,Low
+P1979,41,40-59,Female,29.3,Overweight,6.1,Prediabetes,130,149,93,212,Yes,Never,Moderate,89.6,High
+P1980,81,60+,Female,35.7,Obese,6.5,Diabetes range,129,144,97,263,Yes,Never,High,55.7,High
+P1981,45,40-59,Female,26.5,Overweight,5.3,Normal,115,127,68,165,No,Never,Low,5.3,Low
+P1982,58,40-59,Female,25.5,Overweight,5.9,Prediabetes,105,134,88,235,No,Never,Moderate,36.9,Moderate
+P1983,41,40-59,Female,34.8,Obese,6.0,Prediabetes,103,115,81,206,Yes,Never,High,39.5,Moderate
+P1984,18,18-39,Female,34.9,Obese,5.3,Normal,112,125,74,231,No,Never,High,29.1,Moderate
+P1985,24,18-39,Male,34.2,Obese,5.8,Prediabetes,127,116,77,181,Yes,Current,Moderate,26.6,Moderate
+P1986,56,40-59,Female,38.0,Obese,5.9,Prediabetes,111,130,80,197,No,Never,Moderate,21.7,Moderate
+P1987,58,40-59,Female,27.2,Overweight,6.0,Prediabetes,105,140,80,212,No,Current,Moderate,26.3,Moderate
+P1988,75,60+,Female,25.6,Overweight,5.3,Normal,102,117,80,161,No,Former,Moderate,15.1,Low
+P1989,51,40-59,Male,27.3,Overweight,5.4,Normal,90,122,64,207,No,Never,High,9.3,Low
+P1990,38,18-39,Female,22.9,Normal,5.3,Normal,94,123,74,189,No,Never,Low,15.1,Low
+P1991,77,60+,Female,40.6,Obese,6.6,Diabetes range,143,126,93,258,No,Former,High,59.1,High
+P1992,60,60+,Female,29.3,Overweight,5.2,Normal,107,135,80,170,No,Never,Moderate,21.3,Moderate
+P1993,21,18-39,Male,25.6,Overweight,5.7,Prediabetes,95,117,64,268,No,Never,High,5.3,Low
+P1994,35,18-39,Female,31.5,Obese,5.7,Prediabetes,102,124,88,179,Yes,Never,Moderate,27.0,Moderate
+P1995,23,18-39,Male,20.6,Normal,5.1,Normal,84,99,61,131,No,Never,Moderate,10.5,Low
+P1996,33,18-39,Female,28.6,Overweight,5.5,Normal,115,102,74,165,Yes,Never,High,4.5,Low
+P1997,42,40-59,Female,28.5,Overweight,6.8,Diabetes range,162,151,80,201,Yes,Former,Low,66.1,High
+P1998,55,40-59,Female,28.5,Overweight,6.0,Prediabetes,99,127,81,139,No,Never,High,35.2,Moderate
+P1999,26,18-39,Female,25.1,Overweight,4.9,Normal,91,134,67,186,Yes,Never,High,4.0,Low
+P2000,40,40-59,Male,21.4,Normal,4.8,Normal,83,120,74,189,Yes,Former,Moderate,9.8,Low
+P2001,26,18-39,Female,28.3,Overweight,5.1,Normal,88,128,64,173,Yes,Never,Low,12.8,Low
+P2002,40,40-59,Male,30.5,Obese,5.6,Normal,88,130,70,189,No,Never,High,10.0,Low
+P2003,51,40-59,Female,27.7,Overweight,5.5,Normal,87,108,83,200,No,Former,Low,5.7,Low
+P2004,45,40-59,Female,21.6,Normal,5.1,Normal,107,126,75,161,No,Never,High,14.9,Low
+P2005,50,40-59,Male,27.3,Overweight,5.2,Normal,96,115,82,177,Yes,Never,High,6.9,Low
+P2006,67,60+,Female,36.5,Obese,5.6,Normal,106,117,80,156,No,Never,Low,32.1,Moderate
+P2007,21,18-39,Male,23.6,Normal,5.5,Normal,91,121,82,160,Yes,Never,Low,14.7,Low
+P2008,56,40-59,Male,25.2,Overweight,5.4,Normal,105,133,80,155,No,Never,High,6.0,Low
+P2009,48,40-59,Female,22.1,Normal,5.4,Normal,95,109,70,226,No,Current,Moderate,11.4,Low
+P2010,28,18-39,Male,31.6,Obese,5.7,Prediabetes,90,126,84,200,Yes,Never,Moderate,36.6,Moderate
+P2011,75,60+,Male,22.0,Normal,5.3,Normal,82,113,80,225,No,Former,High,7.4,Low
+P2012,39,18-39,Female,28.7,Overweight,5.0,Normal,87,105,80,185,No,Never,Moderate,16.9,Low
+P2013,47,40-59,Female,26.0,Overweight,5.5,Normal,84,107,81,224,No,Never,High,15.1,Low
+P2014,76,60+,Female,38.0,Obese,7.2,Diabetes range,144,142,94,290,Yes,Never,Moderate,48.7,High
+P2015,19,18-39,Male,23.9,Normal,5.2,Normal,91,117,67,211,No,Former,Moderate,11.5,Low
+P2016,49,40-59,Male,27.1,Overweight,4.9,Normal,98,121,82,215,Yes,Former,Low,14.8,Low
+P2017,70,60+,Female,25.8,Overweight,6.5,Diabetes range,126,130,93,194,No,Former,High,72.8,High
+P2018,57,40-59,Male,28.4,Overweight,4.8,Normal,89,115,90,216,No,Former,High,16.5,Low
+P2019,49,40-59,Female,33.2,Obese,6.4,Prediabetes,108,120,83,184,Yes,Never,Low,33.0,Moderate
+P2020,66,60+,Female,33.1,Obese,6.6,Diabetes range,117,149,88,251,Yes,Never,Low,72.5,High
+P2021,41,40-59,Male,27.0,Overweight,5.3,Normal,94,112,92,228,Yes,Never,Moderate,9.4,Low
+P2022,60,60+,Female,25.8,Overweight,6.3,Prediabetes,93,123,84,195,Yes,Never,High,39.2,Moderate
+P2023,25,18-39,Female,29.4,Overweight,5.5,Normal,94,106,64,240,No,Never,Low,35.7,Moderate
+P2024,40,40-59,Female,26.4,Overweight,5.2,Normal,97,114,72,205,No,Current,Moderate,15.0,Low
+P2025,38,18-39,Female,24.1,Normal,5.5,Normal,91,103,76,188,No,Never,High,4.4,Low
+P2026,38,18-39,Female,36.0,Obese,5.3,Normal,106,146,74,213,Yes,Never,Moderate,26.6,Moderate
+P2027,42,40-59,Male,19.9,Normal,5.3,Normal,97,96,76,201,Yes,Former,Moderate,15.8,Low
+P2028,48,40-59,Male,34.5,Obese,5.9,Prediabetes,151,147,84,196,No,Never,Moderate,65.3,High
+P2029,58,40-59,Female,28.9,Overweight,5.4,Normal,91,121,90,225,No,Never,High,7.0,Low
+P2030,44,40-59,Male,28.0,Overweight,5.9,Prediabetes,93,122,72,187,No,Never,Moderate,31.1,Moderate
+P2031,38,18-39,Female,30.1,Obese,5.3,Normal,105,120,73,167,Yes,Never,Low,30.3,Moderate
+P2032,25,18-39,Female,29.1,Overweight,6.3,Prediabetes,87,126,65,236,No,Never,High,25.3,Moderate
+P2033,55,40-59,Male,25.7,Overweight,5.7,Prediabetes,122,129,73,212,No,Never,Low,38.2,Moderate
+P2034,85,60+,Female,35.0,Obese,7.5,Diabetes range,136,130,86,245,Yes,Never,Low,49.0,High
+P2035,56,40-59,Female,34.0,Obese,6.2,Prediabetes,91,128,82,142,No,Current,Low,28.7,Moderate
+P2036,34,18-39,Male,28.5,Overweight,5.6,Normal,96,126,81,192,Yes,Former,Moderate,28.0,Moderate
+P2037,79,60+,Female,40.8,Obese,6.0,Prediabetes,162,130,76,239,Yes,Never,Moderate,89.2,High
+P2038,69,60+,Male,25.6,Overweight,5.0,Normal,79,127,83,190,No,Never,High,7.3,Low
+P2039,35,18-39,Male,22.2,Normal,5.5,Normal,93,112,91,213,Yes,Former,High,16.5,Low
+P2040,26,18-39,Female,23.4,Normal,6.1,Prediabetes,100,140,82,217,Yes,Current,Moderate,25.7,Moderate
+P2041,43,40-59,Female,31.3,Obese,6.4,Prediabetes,103,124,85,214,Yes,Never,Moderate,32.2,Moderate
+P2042,74,60+,Female,25.1,Overweight,4.9,Normal,70,117,75,150,Yes,Never,High,10.2,Low
+P2043,57,40-59,Female,21.2,Normal,5.2,Normal,104,113,76,192,No,Never,High,7.5,Low
+P2044,63,60+,Male,30.9,Obese,5.2,Normal,124,137,70,204,No,Never,Low,34.6,Moderate
+P2045,48,40-59,Female,24.0,Normal,6.3,Prediabetes,133,137,70,217,No,Former,Low,58.6,High
+P2046,55,40-59,Male,19.5,Normal,5.3,Normal,91,117,84,191,Yes,Never,Low,4.5,Low
+P2047,55,40-59,Female,27.2,Overweight,5.2,Normal,91,116,73,213,No,Never,High,10.9,Low
+P2048,40,40-59,Male,26.1,Overweight,5.2,Normal,110,114,74,167,Yes,Former,Moderate,21.8,Moderate
+P2049,52,40-59,Male,24.5,Normal,6.1,Prediabetes,107,123,93,159,No,Never,High,27.1,Moderate
+P2050,52,40-59,Female,22.8,Normal,5.5,Normal,100,124,80,193,Yes,Current,Low,17.0,Low
+P2051,44,40-59,Female,28.2,Overweight,6.3,Prediabetes,120,146,74,203,No,Never,Moderate,71.4,High
+P2052,33,18-39,Male,25.7,Overweight,4.9,Normal,90,121,72,197,No,Never,Moderate,12.8,Low
+P2053,61,60+,Female,38.5,Obese,7.1,Diabetes range,131,146,72,184,Yes,Never,Low,43.7,High
+P2054,27,18-39,Male,31.9,Obese,6.7,Diabetes range,113,149,84,230,No,Never,Moderate,60.8,High
+P2055,40,40-59,Female,29.9,Overweight,7.2,Diabetes range,177,158,82,244,Yes,Never,Moderate,63.3,High
+P2056,64,60+,Female,23.1,Normal,5.4,Normal,108,117,65,133,No,Never,High,8.2,Low
+P2057,27,18-39,Male,28.8,Overweight,5.9,Prediabetes,98,95,71,181,No,Never,Moderate,5.9,Low
+P2058,40,40-59,Male,27.5,Overweight,6.3,Prediabetes,118,131,68,212,Yes,Current,High,20.8,Moderate
+P2059,58,40-59,Male,25.3,Overweight,5.9,Prediabetes,116,144,76,242,Yes,Never,High,33.5,Moderate
+P2060,55,40-59,Male,30.6,Obese,5.2,Normal,85,137,66,173,No,Never,High,30.7,Moderate
+P2061,55,40-59,Female,19.7,Normal,5.2,Normal,99,125,68,130,No,Never,Moderate,9.5,Low
+P2062,45,40-59,Female,23.2,Normal,5.6,Normal,89,119,78,158,No,Never,High,9.6,Low
+P2063,85,60+,Female,25.2,Overweight,5.4,Normal,94,126,74,167,No,Never,High,12.1,Low
+P2064,30,18-39,Male,29.9,Overweight,6.0,Prediabetes,85,144,96,164,Yes,Former,Low,29.5,Moderate
+P2065,62,60+,Female,31.4,Obese,6.4,Prediabetes,185,129,85,174,Yes,Former,Moderate,80.5,High
+P2066,79,60+,Female,27.2,Overweight,5.2,Normal,92,120,64,171,Yes,Never,Moderate,14.5,Low
+P2067,34,18-39,Female,25.0,Overweight,5.0,Normal,104,114,76,205,No,Former,High,6.7,Low
+P2068,49,40-59,Female,38.2,Obese,7.0,Diabetes range,119,151,91,208,No,Current,Low,91.1,High
+P2069,74,60+,Female,28.9,Overweight,6.2,Prediabetes,114,154,60,191,Yes,Former,Low,20.3,Moderate
+P2070,23,18-39,Female,25.1,Overweight,5.2,Normal,70,132,55,233,No,Never,High,17.6,Low
+P2071,66,60+,Female,23.1,Normal,5.9,Prediabetes,109,134,92,237,Yes,Former,Moderate,22.7,Moderate
+P2072,32,18-39,Male,19.3,Normal,5.1,Normal,92,120,75,218,No,Never,Low,6.3,Low
+P2073,42,40-59,Female,22.5,Normal,5.4,Normal,83,126,88,180,No,Former,Moderate,13.3,Low
+P2074,27,18-39,Male,25.1,Overweight,5.8,Prediabetes,106,138,77,235,No,Never,High,33.7,Moderate
+P2075,50,40-59,Female,22.3,Normal,5.5,Normal,75,118,77,143,No,Never,Moderate,12.6,Low
+P2076,56,40-59,Female,31.1,Obese,5.9,Prediabetes,116,128,76,189,Yes,Never,Moderate,23.1,Moderate
+P2077,19,18-39,Male,30.1,Obese,5.0,Normal,82,112,72,167,Yes,Never,High,4.3,Low
+P2078,55,40-59,Female,27.4,Overweight,4.8,Normal,85,117,82,212,No,Never,Low,17.4,Low
+P2079,31,18-39,Female,22.3,Normal,5.5,Normal,98,122,73,207,No,Never,Moderate,9.6,Low
+P2080,80,60+,Female,24.3,Normal,5.0,Normal,90,132,74,202,Yes,Current,High,17.6,Low
+P2081,48,40-59,Female,25.3,Overweight,5.9,Prediabetes,119,130,67,204,No,Never,Low,31.2,Moderate
+P2082,77,60+,Female,27.0,Overweight,6.3,Prediabetes,129,124,79,204,No,Former,Low,82.5,High
+P2083,28,18-39,Female,36.0,Obese,5.6,Normal,114,115,72,130,No,Current,Moderate,36.1,Moderate
+P2084,61,60+,Male,33.1,Obese,7.2,Diabetes range,139,147,100,232,Yes,Never,Low,64.8,High
+P2085,46,40-59,Female,29.9,Overweight,6.8,Diabetes range,105,150,84,174,Yes,Never,Moderate,79.9,High
+P2086,80,60+,Male,33.8,Obese,6.8,Diabetes range,124,164,77,211,No,Never,Moderate,69.8,High
+P2087,46,40-59,Female,22.1,Normal,4.9,Normal,104,116,70,227,No,Never,Low,8.8,Low
+P2088,75,60+,Female,24.7,Normal,5.7,Prediabetes,81,131,66,202,No,Former,High,15.9,Low
+P2089,71,60+,Female,32.2,Obese,5.3,Normal,91,141,60,212,No,Never,High,21.0,Moderate
+P2090,18,18-39,Female,30.7,Obese,5.6,Normal,85,132,73,189,No,Former,Low,33.3,Moderate
+P2091,29,18-39,Female,25.8,Overweight,5.2,Normal,92,133,79,228,No,Current,Moderate,12.3,Low
+P2092,36,18-39,Female,25.3,Overweight,5.2,Normal,105,116,70,143,No,Former,Moderate,16.2,Low
+P2093,50,40-59,Female,35.0,Obese,6.8,Diabetes range,105,151,87,207,Yes,Former,Low,89.7,High
+P2094,44,40-59,Male,24.0,Normal,5.5,Normal,95,134,74,191,No,Never,High,13.7,Low
+P2095,21,18-39,Male,26.0,Overweight,5.3,Normal,97,116,71,224,Yes,Never,High,9.8,Low
+P2096,41,40-59,Male,27.2,Overweight,5.4,Normal,114,141,85,162,No,Never,Moderate,22.0,Moderate
+P2097,35,18-39,Female,33.2,Obese,6.0,Prediabetes,165,158,93,200,Yes,Never,High,89.8,High
+P2098,22,18-39,Female,35.9,Obese,7.3,Diabetes range,121,147,86,185,No,Current,Low,84.8,High
+P2099,25,18-39,Female,29.4,Overweight,5.3,Normal,103,95,71,202,Yes,Never,Moderate,13.5,Low
+P2100,62,60+,Female,29.8,Overweight,5.7,Prediabetes,92,125,68,167,Yes,Never,Low,10.3,Low
+P2101,44,40-59,Male,33.9,Obese,5.4,Normal,103,140,79,230,Yes,Former,Low,35.2,Moderate
+P2102,77,60+,Female,22.6,Normal,5.2,Normal,91,117,71,160,No,Never,Moderate,4.6,Low
+P2103,50,40-59,Female,29.2,Overweight,5.9,Prediabetes,146,159,83,231,Yes,Never,Low,65.8,High
+P2104,19,18-39,Male,28.5,Overweight,5.6,Normal,89,134,66,144,No,Current,Moderate,4.9,Low
+P2105,84,60+,Female,30.5,Obese,6.3,Prediabetes,149,112,95,230,No,Never,Low,44.4,High
+P2106,27,18-39,Male,24.8,Normal,5.5,Normal,95,105,76,178,Yes,Current,High,5.0,Low
+P2107,22,18-39,Male,22.7,Normal,5.3,Normal,96,115,80,185,No,Never,Moderate,15.3,Low
+P2108,35,18-39,Female,25.6,Overweight,5.8,Prediabetes,89,130,87,229,Yes,Never,Low,24.1,Moderate
+P2109,61,60+,Male,28.0,Overweight,5.7,Prediabetes,113,122,84,185,No,Never,High,20.8,Moderate
+P2110,36,18-39,Female,26.4,Overweight,5.5,Normal,105,107,84,149,Yes,Never,Moderate,6.1,Low
+P2111,41,40-59,Male,28.7,Overweight,6.8,Diabetes range,142,140,73,245,No,Never,Low,74.2,High
+P2112,42,40-59,Female,33.4,Obese,5.8,Prediabetes,125,128,78,160,Yes,Former,Moderate,39.2,Moderate
+P2113,64,60+,Male,37.3,Obese,6.0,Prediabetes,114,134,86,173,No,Never,Low,29.5,Moderate
+P2114,77,60+,Male,21.4,Normal,5.2,Normal,90,112,82,215,No,Never,Moderate,14.6,Low
+P2115,69,60+,Female,28.3,Overweight,5.9,Prediabetes,156,130,87,222,No,Current,Moderate,87.4,High
+P2116,67,60+,Male,35.9,Obese,5.9,Prediabetes,175,144,82,226,No,Former,Low,68.0,High
+P2117,76,60+,Male,27.6,Overweight,5.2,Normal,99,128,69,212,No,Never,Moderate,31.5,Moderate
+P2118,56,40-59,Male,24.9,Normal,6.0,Prediabetes,106,129,60,170,No,Former,Moderate,29.4,Moderate
+P2119,73,60+,Male,29.3,Overweight,5.0,Normal,80,119,69,175,No,Never,Low,7.9,Low
+P2120,73,60+,Female,28.6,Overweight,6.3,Prediabetes,155,126,83,216,No,Never,High,46.9,High
+P2121,18,18-39,Female,31.1,Obese,5.8,Prediabetes,90,137,71,195,No,Current,High,21.8,Moderate
+P2122,39,18-39,Male,36.2,Obese,5.8,Prediabetes,110,130,72,183,No,Former,High,39.1,Moderate
+P2123,76,60+,Male,29.7,Overweight,5.8,Prediabetes,95,108,71,223,Yes,Never,Moderate,29.3,Moderate
+P2124,45,40-59,Male,29.0,Overweight,5.1,Normal,97,116,77,233,No,Former,Moderate,10.4,Low
+P2125,53,40-59,Female,26.3,Overweight,5.1,Normal,92,123,77,205,Yes,Never,High,9.8,Low
+P2126,58,40-59,Male,34.3,Obese,6.9,Diabetes range,129,157,82,183,No,Never,Low,71.6,High
+P2127,72,60+,Male,28.5,Overweight,5.9,Prediabetes,137,124,86,160,Yes,Never,Low,83.0,High
+P2128,19,18-39,Male,33.9,Obese,5.7,Prediabetes,95,116,76,192,No,Never,High,8.8,Low
+P2129,38,18-39,Female,28.2,Overweight,5.4,Normal,77,107,79,174,No,Never,High,10.9,Low
+P2130,85,60+,Female,30.9,Obese,5.8,Prediabetes,131,152,71,227,No,Never,High,39.8,Moderate
+P2131,40,40-59,Female,19.9,Normal,5.4,Normal,92,132,87,179,Yes,Never,Moderate,7.7,Low
+P2132,84,60+,Female,27.2,Overweight,5.7,Prediabetes,135,123,70,224,No,Never,High,34.6,Moderate
+P2133,80,60+,Male,30.0,Obese,6.0,Prediabetes,91,136,70,228,No,Current,Low,28.2,Moderate
+P2134,18,18-39,Female,28.9,Overweight,5.5,Normal,77,119,70,157,No,Never,Moderate,17.3,Low
+P2135,78,60+,Female,25.5,Overweight,5.3,Normal,87,121,81,268,No,Former,Low,14.8,Low
+P2136,77,60+,Male,40.0,Obese,5.9,Prediabetes,172,161,94,175,No,Former,Moderate,80.7,High
+P2137,34,18-39,Male,21.6,Normal,4.8,Normal,86,115,72,222,No,Never,High,17.5,Low
+P2138,31,18-39,Female,29.3,Overweight,5.2,Normal,122,136,73,189,Yes,Never,Low,25.1,Moderate
+P2139,76,60+,Female,21.4,Normal,5.2,Normal,86,116,71,223,Yes,Never,Moderate,12.1,Low
+P2140,66,60+,Female,29.0,Overweight,5.9,Prediabetes,105,109,82,256,Yes,Never,Moderate,39.8,Moderate
+P2141,85,60+,Female,27.6,Overweight,5.4,Normal,88,124,86,202,No,Never,High,29.1,Moderate
+P2142,51,40-59,Female,28.6,Overweight,5.5,Normal,112,120,79,175,Yes,Current,High,38.2,Moderate
+P2143,45,40-59,Male,28.5,Overweight,4.9,Normal,90,120,83,156,No,Current,Moderate,12.8,Low
+P2144,31,18-39,Male,23.7,Normal,5.5,Normal,97,127,68,216,No,Never,High,5.9,Low
+P2145,80,60+,Male,34.4,Obese,6.8,Diabetes range,115,155,100,221,Yes,Never,Low,72.6,High
+P2146,25,18-39,Female,24.0,Normal,5.1,Normal,94,117,82,148,Yes,Former,Moderate,12.4,Low
+P2147,45,40-59,Female,26.2,Overweight,5.8,Prediabetes,98,107,82,212,No,Current,Low,7.8,Low
+P2148,28,18-39,Female,22.1,Normal,5.7,Prediabetes,87,141,77,162,No,Never,High,16.0,Low
+P2149,37,18-39,Male,25.3,Overweight,5.5,Normal,91,126,76,219,No,Never,Moderate,32.6,Moderate
+P2150,38,18-39,Male,25.3,Overweight,5.3,Normal,98,127,69,217,Yes,Never,High,9.1,Low
+P2151,71,60+,Male,38.6,Obese,5.9,Prediabetes,138,165,94,254,Yes,Never,Moderate,56.8,High
+P2152,21,18-39,Male,25.9,Overweight,5.0,Normal,93,115,72,160,No,Never,High,14.9,Low
+P2153,23,18-39,Female,22.3,Normal,5.7,Prediabetes,84,128,72,170,No,Former,High,7.3,Low
+P2154,28,18-39,Male,31.7,Obese,5.8,Prediabetes,125,127,88,193,Yes,Never,Moderate,31.9,Moderate
+P2155,76,60+,Male,31.0,Obese,7.0,Diabetes range,113,145,76,235,No,Never,Low,79.5,High
+P2156,75,60+,Female,18.5,Normal,4.8,Normal,88,124,55,188,No,Current,Low,12.7,Low
+P2157,67,60+,Female,25.9,Overweight,7.6,Diabetes range,149,119,78,209,No,Never,Moderate,58.7,High
+P2158,27,18-39,Female,19.5,Normal,5.6,Normal,88,119,82,174,Yes,Former,Moderate,4.7,Low
+P2159,85,60+,Female,26.6,Overweight,5.2,Normal,102,119,73,213,No,Never,Moderate,6.1,Low
+P2160,44,40-59,Female,27.2,Overweight,5.4,Normal,97,124,78,228,Yes,Never,Moderate,7.3,Low
+P2161,20,18-39,Female,22.6,Normal,5.8,Prediabetes,85,114,82,225,No,Never,Moderate,6.3,Low
+P2162,35,18-39,Male,33.6,Obese,6.0,Prediabetes,108,135,62,162,Yes,Never,Moderate,32.9,Moderate
+P2163,47,40-59,Female,37.8,Obese,6.6,Diabetes range,147,136,100,161,Yes,Never,Low,62.1,High
+P2164,34,18-39,Female,30.7,Obese,5.7,Prediabetes,114,129,80,202,No,Never,High,20.9,Moderate
+P2165,55,40-59,Male,25.6,Overweight,4.9,Normal,94,119,79,159,No,Former,Moderate,11.5,Low
+P2166,38,18-39,Female,25.8,Overweight,5.2,Normal,85,118,76,172,No,Never,Moderate,11.3,Low
+P2167,38,18-39,Male,22.4,Normal,5.4,Normal,73,122,75,179,Yes,Never,High,10.5,Low
+P2168,77,60+,Female,24.7,Normal,5.3,Normal,93,118,71,216,No,Current,High,13.6,Low
+P2169,36,18-39,Female,26.0,Overweight,5.6,Normal,82,108,68,211,No,Former,High,10.6,Low
+P2170,82,60+,Female,39.0,Obese,6.1,Prediabetes,134,132,74,239,Yes,Current,Low,63.4,High
+P2171,51,40-59,Female,22.5,Normal,5.1,Normal,100,122,69,205,No,Never,High,13.9,Low
+P2172,73,60+,Female,29.1,Overweight,6.0,Prediabetes,131,143,75,228,No,Current,High,38.1,Moderate
+P2173,50,40-59,Female,27.1,Overweight,5.1,Normal,100,121,72,197,No,Never,High,11.2,Low
+P2174,37,18-39,Male,29.3,Overweight,6.2,Prediabetes,135,128,91,161,Yes,Never,Low,87.6,High
+P2175,43,40-59,Male,27.4,Overweight,6.6,Diabetes range,133,137,87,172,No,Never,High,54.8,High
+P2176,48,40-59,Female,30.9,Obese,5.8,Prediabetes,100,134,68,215,No,Never,High,21.8,Moderate
+P2177,27,18-39,Male,28.5,Overweight,5.7,Prediabetes,104,119,70,283,No,Former,High,29.8,Moderate
+P2178,42,40-59,Female,24.9,Normal,5.0,Normal,99,104,78,152,No,Never,High,12.4,Low
+P2179,56,40-59,Female,30.9,Obese,5.0,Normal,96,113,75,197,No,Current,Moderate,14.1,Low
+P2180,54,40-59,Male,24.9,Normal,4.8,Normal,93,126,67,210,Yes,Current,High,9.1,Low
+P2181,80,60+,Male,30.2,Obese,6.7,Diabetes range,105,149,87,250,No,Never,Low,51.5,High
+P2182,74,60+,Male,19.7,Normal,5.8,Prediabetes,90,106,70,231,No,Never,Moderate,11.6,Low
+P2183,81,60+,Female,37.5,Obese,7.2,Diabetes range,134,142,102,257,Yes,Current,Moderate,71.7,High
+P2184,36,18-39,Male,23.9,Normal,5.6,Normal,70,114,79,149,Yes,Current,Moderate,10.5,Low
+P2185,45,40-59,Female,25.1,Overweight,5.1,Normal,82,118,70,198,Yes,Never,Moderate,11.7,Low
+P2186,76,60+,Female,23.5,Normal,5.0,Normal,104,111,83,206,No,Never,Low,10.5,Low
+P2187,56,40-59,Male,22.7,Normal,5.7,Prediabetes,110,110,72,207,No,Never,Moderate,6.7,Low
+P2188,20,18-39,Female,27.2,Overweight,5.7,Prediabetes,107,139,69,167,No,Former,Moderate,29.4,Moderate
+P2189,30,18-39,Female,28.2,Overweight,4.9,Normal,91,122,68,202,No,Never,Moderate,16.3,Low
+P2190,72,60+,Female,33.3,Obese,6.7,Diabetes range,119,146,93,182,Yes,Never,Low,48.6,High
+P2191,40,40-59,Female,26.8,Overweight,6.8,Diabetes range,123,145,89,243,No,Current,High,70.8,High
+P2192,22,18-39,Female,27.7,Overweight,5.2,Normal,99,121,76,179,No,Never,Moderate,14.0,Low
+P2193,40,40-59,Male,29.9,Overweight,5.3,Normal,101,113,70,220,No,Current,High,12.4,Low
+P2194,78,60+,Male,40.3,Obese,6.7,Diabetes range,108,132,74,233,No,Never,High,89.2,High
+P2195,53,40-59,Female,33.9,Obese,5.7,Prediabetes,101,137,90,237,No,Never,Moderate,23.5,Moderate
+P2196,50,40-59,Female,33.5,Obese,7.0,Diabetes range,145,121,81,194,Yes,Current,High,57.9,High
+P2197,28,18-39,Male,37.2,Obese,5.2,Normal,123,145,80,205,Yes,Never,Low,39.7,Moderate
+P2198,50,40-59,Male,32.5,Obese,5.9,Prediabetes,144,164,95,242,No,Former,Moderate,72.7,High
+P2199,64,60+,Female,27.0,Overweight,5.1,Normal,103,106,77,204,No,Never,High,12.8,Low
+P2200,50,40-59,Female,25.7,Overweight,5.3,Normal,83,124,71,171,No,Never,Low,4.1,Low
